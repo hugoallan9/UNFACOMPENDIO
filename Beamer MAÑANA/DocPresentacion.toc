@@ -1,0 +1,17 @@
+\beamer@endinputifotherversion {3.33pt}
+\select@language {spanish}
+\beamer@subsectionintoc {0}{1}{\fontsize {8pt}{2em}\selectfont Alumnos en preprimaria}{3}{0}{0}
+\beamer@subsectionintoc {0}{2}{\fontsize {8pt}{2em}\selectfont Indicadores de preprimaria}{8}{0}{0}
+\beamer@subsectionintoc {0}{3}{\fontsize {8pt}{2em}\selectfont Alumnos en primaria}{11}{0}{0}
+\beamer@subsectionintoc {0}{4}{\fontsize {8pt}{2em}\selectfont Indicadores de educación primaria}{16}{0}{0}
+\beamer@subsectionintoc {0}{5}{\fontsize {8pt}{2em}\selectfont Alumnos en básico}{26}{0}{0}
+\beamer@subsectionintoc {0}{6}{\fontsize {8pt}{2em}\selectfont Indicadores de educación básica}{33}{0}{0}
+\beamer@subsectionintoc {0}{7}{\fontsize {8pt}{2em}\selectfont Alumnos en diversificado}{37}{0}{0}
+\beamer@subsectionintoc {0}{8}{\fontsize {8pt}{2em}\selectfont Indicadores de educación diversificada}{43}{0}{0}
+\beamer@subsectionintoc {0}{9}{\fontsize {8pt}{2em}\selectfont Matriculados en educación superior}{46}{0}{0}
+\beamer@subsectionintoc {0}{10}{\fontsize {8pt}{2em}\selectfont Graduados de educación superior}{57}{0}{0}
+\beamer@subsectionintoc {0}{11}{\fontsize {8pt}{2em}\selectfont Caracterización escolar de la población económicamente activa}{62}{0}{0}
+\beamer@subsectionintoc {0}{12}{\fontsize {8pt}{2em}\selectfont Características escolares de las mujeres en edad fértil}{77}{0}{0}
+\beamer@subsectionintoc {0}{13}{\fontsize {8pt}{2em}\selectfont Nacimientos: características escolares de las madres}{84}{0}{0}
+\beamer@subsectionintoc {0}{14}{\fontsize {8pt}{2em}\selectfont Gasto público y financiamiento}{89}{0}{0}
+\beamer@subsectionintoc {0}{15}{\fontsize {8pt}{2em}\selectfont Gasto de los hogares}{95}{0}{0}

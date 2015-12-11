@@ -1,0 +1,156 @@
+
+\INEchaptercarta{Caracterización escolar de la población económicamente activa}{}
+
+
+\cajita{Participación PEA}{La tasa de participación de la población económicamente activa, es el porcentaje de las personas que están ocupadas o en desempleo abierto en relación al total de la población que está en edad para trabajar (mayor a 14 años), llamada también PET. 
+		
+	En el 2013, el 60.5\% de la PET estaba trabajando o en desempleo abierto.}{Tasa de participación de la población económicamente activa}{República de Guatemala, serie histórica, en porcentaje}{\ \\[0mm]}{Instituto Nacional de Estadística}
+
+\cajita{PEA que sabe leer y escribir}{
+	De la población económicamente activa (PEA), en el 2013, el 79.9\% reportó que sabía leer y escribir. La desagregación por dominio de estudio muestra que el 72.9\% la PEA del área rural nacional sabía leer y escribir, siendo el dominio con el menor porcentaje. \\
+	
+	Por otro lado, la PEA del área urbana metropolitana con esta habilidad tuvo el 93.2\%.
+	}{Proporción de la población económicamente activa – PEA -, que sabe leer y escribir por dominios de estudio }{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]}{Instituto Nacional de Estadística}
+
+\cajita{PEA según nivel de escolaridad ***ver comentario de la descrip}{La distribución según el último nivel escolar aprobado por la población que es económicamente activa que sabe leer y escribir, muestra que el 40.7\% alcanzó hasta el nivel primario. Estudios superiores y de postgrado la tiene el 7.8\% de la PEA. \\
+	
+	 Otro indicador importantes es que 19.4\% de la población económicamente activa que sabe leer y escribir, no ha obtenido ningún grado de escolaridad. }{Distribución de la población económicamente activa, según nivel de escolaridad}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]}{Instituto Nacional de Estadística}
+
+%\cajita{PEA según condición de ocupación}{}{Proporción de la población económicamente activa según condición de ocupación}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]}{Instituto Nacional de Estadística}
+
+
+\cajita{PEA según escolaridad y sexo}{Las distribuciones de la población económicamente activa que sabe leer y escribir, por hombre y mujer, muestra que ambos grupos tiene un mayor porcentaje con educación primaria.\\
+	
+	El 10.9\% de las mujeres que forman parte de la PEA tienen estudios superiores o de postgrado.-- }{Distribución de la población económicamente activa por sexo según nivel de escolaridad}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]}{Instituto Nacional de Estadística}
+
+\cajita{PEA según escolaridad y etnia***ver comentario de la descrip}{Las distribuciones de la población económicamente activa que sabe leer y escribir, por grupo ético, muestra que ambos grupos tiene un mayor porcentaje con educación primaria.\\
+	
+	El 11.4\% de la población no indígena que forma parte de la PEA tiene estudios superiores o de postgrado. \\
+	
+	El 29.3 de la PEA con etnicidad indígena que sabe leer y escribir no tiene ningún nivel de escolaridad aprobado.
+	}{Distribución de la población económicamente activa por grupo étnico según nivel de escolaridad}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]}{Instituto Nacional de Estadística}
+
+
+\cajita{PEA que asistió a un plantel educativo}{	
+	De la población económicamente activa que (sabe leer y escribir), el 90.3\% asistió, en el 2013, a un plantel educativo.
+	}{Distribución de la población económicamente activa, de acuerdo a su asistencia a un plantel educativo}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]}{Instituto Nacional de Estadística}
+
+
+\INEchaptercarta{Caracterización escolar de los ocupados y desocupados}{}
+
+%
+%
+%
+\cajita{Ocupados con educación primaria***ver comentario de la descrip}{En el 2013, el  61.0\% de la población ocupada reportó tener algún grado del nivel primario, aprobado. Este conjunto incluye a la población que no tiene ningún nivel de escolaridad aprobado.(incluye a los que no saben leer y escribir??)}{Proporción de población ocupada que tiene hasta sexto grado de primaria}{República de Guatemala, serie histórica, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ocuydesocupados/}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\cajita{Ocupados con educación primaria y la rama de actividad}{Según la rama de actividad del lugar donde labora la población ocupada, el 85.7\% de las personas que laboran en empresas dedicadas a la agricultura tienen aprobado, a lo sumo, sexto primaria. \\
+	
+	 Por otro lado, el 2\% de las personas ocupadas que laboran en empresas dedicadas a las actividades financieras y de seguros tienen a lo sumo aprobado sexto primaria.}{Proporción de población ocupada que tiene hasta sexto grado de primaria por rama de actividad}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ocuydesocupados/}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+%
+
+\cajita{Ocupados con educación primaria y la ocupación}{Según la categoría ocupacional de las población ocupada, el 87.1\% de los agricultores tiene aprobado a lo sumo sexto primaria, así mismo el 80.8\% de las población cuya ocupación está clasificada como ocupaciones elementales su formación está entre ninguna y sexto primaria. }{Proporción de población ocupada que tiene hasta sexto grado de primaria por categoría ocupacional}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ocuydesocupados/}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\cajita{Ocupados, IGSS y escolaridad}{Según el nivel de escolaridad de la población ocupada, el 61\% de quienes  que reportan tener educación superior están afiliados al IGSS. \\
+	
+	Asimismo, de la población sin ningún nivel de escolaridad aprobado, el 6.3\% está afiliado al IGSS.}{Proporción de la población ocupada que es afiliado activo del IGSS, según nivel de escolaridad}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ocuydesocupados/}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\cajita{Ocupados, sector informal y escolaridad}{Según el nivel de escolaridad de la población ocupada, el 8.2\% de quienes  que reportan tener educación superior están laborando en el sector informal.\\
+	
+	 Asimismo, de la población sin ningún nivel de escolaridad aprobado, el 89.9\% trabaja en ese sector.}{Proporción de la población ocupada que labora en el sector informal según nivel de escolaridad}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ocuydesocupados/}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+
+\cajita{Asalariados, contratos y escolaridad}{Según el nivel de escolaridad de la población ocupada, el 81.6\% de quienes  que reportan tener educación superior cuentan con un contrato de trabajo.\\
+	
+	 Asimismo, de la población sin ningún nivel de escolaridad aprobado, el 6.8\% tiene contrato.}{Proporción de la población asalariada que  tiene contrato de trabajo, por nivel de escolaridad}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ocuydesocupados/}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+
+\cajita{Asalariados, bono 14 y escolaridad}{Según el nivel de escolaridad de la población ocupada, el 72.0\% de quienes  que reportan tener educación superior reciben el bono 14. Asimismo, de la población sin ningún nivel de escolaridad aprobado, el 8.7\% lo recibe.}{Proporción de la población asalariada que recibe bono 14 según el nivel de escolaridad}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ocuydesocupados/}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+
+
+\cajita{Asalariados, aguinaldo y escolaridad}{Según el nivel de escolaridad de la población ocupada, el 70.0\% de quienes  tienen educación superior reciben el aguinaldo. Asimismo, de la población sin ningún nivel de escolaridad aprobado, el 8.5\% lo recibe.}{Proporción de la población asalariada que recibe aguinaldo según el nivel de escolaridad}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ocuydesocupados/}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+
+
+
+\cajita{Escolaridad e ingresos}{Según el nivel de escolaridad de la población ocupada, el nivel de ingresos promedio de quienes  tienen educación superior es de Q4,370.  Asimismo, de la población sin ningún nivel de escolaridad aprobado, el promedio de ingresos es de Q1,082.}{Promedio de ingresos laborales según el nivel de escolaridad}{República de Guatemala, año 2013, en quetzales corrientes}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ocuydesocupados/}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+
+\cajita{Escolaridad e ingresos, según sexo}{
+	Según el nivel de escolaridad de la población ocupada por sexo, el nivel de ingresos promedio de los hombres con  educación superior es de Q5,293, siendo el mayor de la serie.\\
+	
+	  Asimismo,  el menor promedio de ingresos se encuentra en las mujeres que no cuentan con ningún nivel de educación aprobado, siendo este de Q950.
+	}{Promedio de ingresos laborales según el nivel de escolaridad y sexo}{República de Guatemala, año 2013, en quetzales corrientes}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ocuydesocupados/}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+%
+%
+\cajita{Desempleo}{La tasa de desempleo abierto se ha mantenido entre el 2.9 y 4.1\%.\\
+	
+	 En desempleo abierto se consideran a las personas que no laboran pero que están buscando trabajo, estas forman parte de la población económicamente activa.}{Tasa de desempleo abierto}{República de Guatemala, serie histórica, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ocuydesocupados/}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+%
+%\cajita{Desempleo según sexo}{}{Tasa de desempleo abierto según sexo}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ocuydesocupados/}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+%
+%
+%\cajita{Desocupados analfabetos según dominio}{}{Proporción de la población desocupada que es analfabeta, por dominio de estudio}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ocuydesocupados/}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+%
+%
+\cajita{Desocupados y escolaridad**000***tambien descripción revisar}{De la población económicamente activa, el 3.2\% que tiene estudios superiores está desocupada. Asimismo, el mayor porcentaje de desocupados, según nivel de escolaridad, se encuentra entre los que tienen educación diversificada (6.0\%)}{Tasa de desempleo por nivel de escolaridad}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ocuydesocupados/}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+%
+%\cajita{Descoupados, escolaridad y sexo}{}{Proporción de la población desocupada, según nivel de escolaridad y sexo}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ocuydesocupados/}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+%
+
+%\INEchaptercarta{Capacitación en el trabajo}{}
+%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+%
+%
+%
+%
+%\INEchaptercarta{Niñez que labora y su escolaridad}{}
+%
+%
+%
+%\cajita{Tasa de trabajo infantil}{}{Tasa de la población menor a 14 años que realiza actividades económicas}{República de Guatemala, serie histórica, en porcentaje}{\ \\[0mm]}{Instituto Nacional de Estadística}
+%
+%
+%
+%\cajita{Tasa de trabajo infantil por sexo}{}{Tasa de la población menor a 14 años que realiza actividades económicas según sexo}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]}{Instituto Nacional de Estadística}
+%
+%
+%\cajita{Trabajo infantil y anpea por dominio de estudio}{}{Proporción de la población menor a 14 años que realiza actividades económicas, por dominio de estudio}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]}{Instituto Nacional de Estadística}
+%
+%
+%\cajita{Trabajo infantil y escolaridad}{}{Proporción de la población menor a 14 años que realiza actividades económicas, por nivel de escolaridad}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]}{Instituto Nacional de Estadística}
+%
+%
+%\cajita{Trabajo infantil, escolaridad y sexo}{}{Proporción de la población menor a 14 años que realiza actividades económicas, por nivel de escolaridad y sexo}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]}{Instituto Nacional de Estadística}
+%
+%
+%\cajita{Trabajo infantil y escolaridad del jefe de hogar}{}{Distribución de la población menor a 14 años que realiza actividades económicas, por nivel de escolaridad del jefe de hogar}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]}{Instituto Nacional de Estadística}
+%

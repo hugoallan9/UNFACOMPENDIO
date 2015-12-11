@@ -1,0 +1,86 @@
+\select@language {spanish}
+\thispagestyle {empty}
+\addvspace {3.1\baselineskip }\color {color2!60!black}
+\textbf {\Cinzel \relax \fontsize {12}{14}\selectfont PARTE {I} }\\[1.0mm] {\Cinzel \relax \fontsize {12}{14}\selectfont Balances por país de procedencia }\\[-2.5mm] \par 
+\addvspace {0.2\baselineskip }{\color {color2}\hrule height 0.9pt} \vskip 0.6\baselineskip \relax \color {black}
+\addvspace {-0.1\baselineskip }\color {black}
+\addvspace {0.6\baselineskip }\color {color1}
+\contentsline {chapter}{\hbox to\@tempdima {1\hfil }Nombre del capítulo}{7}{section*.3}
+\color {black}\vskip 0.2\baselineskip \relax 
+\contentsline {section}{\numberline {1.1}Chalecos}{9}{section.1.1}
+\contentsline {section}{\hbox to\@tempdima {1.2\hfil } Hoho en el índice}{10}{section*.4}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.3\hfil } Hoho en la sección}{10}{section*.5}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.4\hfil } Título de la sección}{11}{section*.6}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.5\hfil } Título de la sección}{12}{section*.7}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.6\hfil } Título de la sección}{13}{section*.8}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.7\hfil } Título de la sección}{14}{section*.9}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.8\hfil } Título de la sección}{15}{section*.10}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.9\hfil } Título de la sección}{16}{section*.11}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.10\hfil } Título de la sección}{17}{section*.12}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.11\hfil } Título de la sección}{18}{section*.13}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.12\hfil } Título de la sección}{19}{section*.14}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.13\hfil } Título de la sección}{20}{section*.15}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.14\hfil } Título de la sección}{21}{section*.16}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.15\hfil } Título de la sección}{22}{section*.17}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.16\hfil } Título de la sección}{23}{section*.18}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.17\hfil } Título de la sección}{24}{section*.19}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.18\hfil } Título de la sección}{25}{section*.20}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.19\hfil } Hoho en el índice}{26}{section*.21}
+\thispagestyle {empty}
+\addvspace {0.6\baselineskip }\color {color1}
+\contentsline {chapter}{\hbox to\@tempdima {2\hfil }Capítulo dos}{27}{section*.22}
+\color {black}\vskip 0.2\baselineskip \relax 
+\contentsline {section}{\hbox to\@tempdima {2.1\hfil } Título de caja largo wiri wiri título de caja largo wiri wiri Título de caja largo wiri wiri }{29}{section*.23}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {2.2\hfil } Hoho en el índice}{29}{section*.24}
+\thispagestyle {empty}
+\addvspace {3.1\baselineskip }\color {color2!60!black}
+\textbf {\Cinzel \relax \fontsize {12}{14}\selectfont PARTE {II} }\\[1.0mm] {\Cinzel \relax \fontsize {12}{14}\selectfont Desglose }\\[-2.5mm] \par 
+\addvspace {0.2\baselineskip }{\color {color2}\hrule height 0.9pt} \vskip 0.6\baselineskip \relax \color {black}
+\addvspace {-0.1\baselineskip }\color {black}
+\addvspace {0.6\baselineskip }\color {color1}
+\contentsline {chapter}{\hbox to\@tempdima {3\hfil }Otro capítulo}{33}{section*.26}
+\color {black}\vskip 0.2\baselineskip \relax 
+\contentsline {section}{\hbox to\@tempdima {3.1\hfil } Hoho en la sección}{35}{section*.27}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {3.2\hfil } Título de la sección}{36}{section*.28}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {3.3\hfil } Título de la sección}{37}{section*.29}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {3.4\hfil } Título de la sección}{38}{section*.30}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {3.5\hfil } Título de la sección}{39}{section*.31}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {3.6\hfil } Título de la sección}{40}{section*.32}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {3.7\hfil } Título de la sección}{41}{section*.33}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {3.8\hfil } Prueba de título largo}{42}{section*.34}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {3.9\hfil } Título de la sección}{43}{section*.35}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {3.10\hfil } Título de la sección}{44}{section*.36}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {3.11\hfil } Título de la sección}{45}{section*.37}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {3.12\hfil } Sección de prueba}{46}{section*.37}
+\contentsline {section}{\hbox to\@tempdima {3.13\hfil } Sección de prueba}{46}{section*.37}
+\contentsline {section}{\hbox to\@tempdima {3.14\hfil } Título de caja largo wiri wiri Título de caja largo wiri wiri Título de caja largo wiri wiri }{47}{section*.38}
+\thispagestyle {empty}

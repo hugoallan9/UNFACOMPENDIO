@@ -1,0 +1,338 @@
+\select@language {spanish}
+\thispagestyle {empty}
+\addvspace {3.1\baselineskip }\color {color2!60!black}
+\textbf {\Cinzel \relax \fontsize {12}{14}\selectfont PARTE {I} }\\[1.0mm] {\Cinzel \relax \fontsize {12}{14}\selectfont Estadísticas de los niveles educativos a cargo del\\ Ministerio de Educación }\\[-2.5mm] \par 
+\addvspace {0.2\baselineskip }{\color {color2}\hrule height 0.9pt} \vskip 0.6\baselineskip \relax \color {black}
+\addvspace {-0.1\baselineskip }\color {black}
+\addvspace {0.6\baselineskip }\color {color1}
+\contentsline {chapter}{\hbox to\@tempdima {1\hfil }Alumnos en preprimaria}{5}{section*.2}
+\color {black}\vskip 0.2\baselineskip \relax 
+\contentsline {section}{\hbox to\@tempdima {1.1\hfil } Inscritos }{7}{section*.3}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.2\hfil } Inscritos por sexo}{7}{section*.4}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.3\hfil } Inscritos por etnia}{8}{section*.5}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.4\hfil } Inscritos por sector educativo}{8}{section*.6}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.5\hfil } Inscritos e idioma}{9}{section*.7}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.6\hfil } Inscritos en los departamentos}{10}{section*.8}
+\thispagestyle {empty}
+\addvspace {0.6\baselineskip }\color {color1}
+\contentsline {chapter}{\hbox to\@tempdima {2\hfil }Indicadores de preprimaria}{11}{section*.9}
+\color {black}\vskip 0.2\baselineskip \relax 
+\contentsline {section}{\hbox to\@tempdima {2.1\hfil } Cobertura bruta}{13}{section*.10}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {2.2\hfil } Cobertura bruta por sexo}{13}{section*.11}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {2.3\hfil } Cobertura bruta en los departamentos}{14}{section*.12}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {2.4\hfil } Cobertura neta}{15}{section*.13}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {2.5\hfil } Cobertura neta por sexo}{15}{section*.14}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {2.6\hfil } Cobertura neta en los departamentos}{16}{section*.15}
+\thispagestyle {empty}
+\addvspace {0.6\baselineskip }\color {color1}
+\contentsline {chapter}{\hbox to\@tempdima {3\hfil }Alumnos en el nivel primario}{17}{section*.16}
+\color {black}\vskip 0.2\baselineskip \relax 
+\contentsline {section}{\hbox to\@tempdima {3.1\hfil } Inscritos en primaria }{19}{section*.17}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {3.2\hfil } Inscritos en primaria por sexo}{19}{section*.18}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {3.3\hfil } Inscritos en primaria por grado}{20}{section*.19}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {3.4\hfil } Inscritos en primaria por etnia}{20}{section*.20}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {3.5\hfil } Inscritos en primaria por sector educativo}{21}{section*.21}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {3.6\hfil } Inscritos en primaria e idioma}{21}{section*.22}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {3.7\hfil } Inscritos en primaria en los departamentos}{22}{section*.23}
+\thispagestyle {empty}
+\addvspace {0.6\baselineskip }\color {color1}
+\contentsline {chapter}{\hbox to\@tempdima {4\hfil }Indicadores de educación primaria}{23}{section*.24}
+\color {black}\vskip 0.2\baselineskip \relax 
+\contentsline {section}{\hbox to\@tempdima {4.1\hfil } Cobertura bruta}{25}{section*.25}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {4.2\hfil } Cobertura bruta por sexo}{25}{section*.26}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {4.3\hfil } Cobertura bruta en los departamentos}{26}{section*.27}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {4.4\hfil } Cobertura neta}{27}{section*.28}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {4.5\hfil } Cobertura neta por sexo}{27}{section*.29}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {4.6\hfil } Cobertura neta en los departamentos}{28}{section*.30}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {4.7\hfil } Repitencia}{29}{section*.31}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {4.8\hfil } Repitencia por sexo}{29}{section*.32}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {4.9\hfil } Repitencia en los departamentos}{30}{section*.33}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {4.10\hfil } Sobre-edad}{31}{section*.34}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {4.11\hfil } Sobre-edad por sexo}{31}{section*.35}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {4.12\hfil } Sobre-edad en los departamentos}{32}{section*.36}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {4.13\hfil } Deserción}{33}{section*.37}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {4.14\hfil } Deserción por sexo}{33}{section*.38}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {4.15\hfil } Deserción en los departamentos}{34}{section*.39}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {4.16\hfil } Aprobación}{35}{section*.40}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {4.17\hfil } Aprobación por sexo}{35}{section*.41}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {4.18\hfil } Aprobación en los departamentos}{36}{section*.42}
+\thispagestyle {empty}
+\addvspace {0.6\baselineskip }\color {color1}
+\contentsline {chapter}{\hbox to\@tempdima {5\hfil }Alumnos en el ciclo básico}{37}{section*.43}
+\color {black}\vskip 0.2\baselineskip \relax 
+\contentsline {section}{\hbox to\@tempdima {5.1\hfil } Inscritos en básicos }{39}{section*.44}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {5.2\hfil } Inscritos en básicos por sexo}{39}{section*.45}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {5.3\hfil } Inscritos en básicos por grado}{40}{section*.46}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {5.4\hfil } Inscritos en básicos por grupo étnico}{40}{section*.47}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {5.5\hfil } Inscritos en básicos por sector educativo}{41}{section*.48}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {5.6\hfil } Inscritos en básicos e idioma}{41}{section*.49}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {5.7\hfil } Inscritos en básicos en los departamentos}{42}{section*.50}
+\thispagestyle {empty}
+\addvspace {0.6\baselineskip }\color {color1}
+\contentsline {chapter}{\hbox to\@tempdima {6\hfil }Indicadores de educación básica}{43}{section*.51}
+\color {black}\vskip 0.2\baselineskip \relax 
+\contentsline {section}{\hbox to\@tempdima {6.1\hfil } Cobertura bruta}{45}{section*.52}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {6.2\hfil } Cobertura bruta por sexo}{45}{section*.53}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {6.3\hfil } Cobertura bruta en los departamentos}{46}{section*.54}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {6.4\hfil } Cobertura neta}{47}{section*.55}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {6.5\hfil } Cobertura neta por sexo}{47}{section*.56}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {6.6\hfil } Cobertura neta en los departamentos}{48}{section*.57}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {6.7\hfil } Repitencia}{49}{section*.58}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {6.8\hfil } Repitencia por sexo}{49}{section*.59}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {6.9\hfil } Repitencia en los departamentos}{50}{section*.60}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {6.10\hfil } Sobre-edad}{51}{section*.61}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {6.11\hfil } Sobre-edad por sexo}{51}{section*.62}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {6.12\hfil } Sobre-edad en los departamentos}{52}{section*.63}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {6.13\hfil } Deserción}{53}{section*.64}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {6.14\hfil } Deserción por sexo}{53}{section*.65}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {6.15\hfil } Deserción en los departamentos}{54}{section*.66}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {6.16\hfil } Aprobación}{55}{section*.67}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {6.17\hfil } Aprobación por sexo}{55}{section*.68}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {6.18\hfil } Aprobación en los departamentos}{56}{section*.69}
+\thispagestyle {empty}
+\addvspace {0.6\baselineskip }\color {color1}
+\contentsline {chapter}{\hbox to\@tempdima {7\hfil }Alumnos en diversificado}{57}{section*.70}
+\color {black}\vskip 0.2\baselineskip \relax 
+\contentsline {section}{\hbox to\@tempdima {7.1\hfil } Inscritos en diversificado }{59}{section*.71}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {7.2\hfil } Inscritos en diversificado por sexo}{59}{section*.72}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {7.3\hfil } Inscritos en diversificado por grado}{60}{section*.73}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {7.4\hfil } Inscritos en diversificado por etnia}{60}{section*.74}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {7.5\hfil } Inscritos en diversificado por sector educativo}{61}{section*.75}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {7.6\hfil } Inscritos en diversificado e idioma}{61}{section*.76}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {7.7\hfil } Inscritos en diversificado en los departamentos}{62}{section*.77}
+\thispagestyle {empty}
+\addvspace {0.6\baselineskip }\color {color1}
+\contentsline {chapter}{\hbox to\@tempdima {8\hfil }Indicadores de educación diversificada}{63}{section*.78}
+\color {black}\vskip 0.2\baselineskip \relax 
+\contentsline {section}{\hbox to\@tempdima {8.1\hfil } Cobertura bruta}{65}{section*.79}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {8.2\hfil } Cobertura bruta por sexo}{65}{section*.80}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {8.3\hfil } Cobertura bruta en los departamentos}{66}{section*.81}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {8.4\hfil } Cobertura neta}{67}{section*.82}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {8.5\hfil } Cobertura neta por sexo}{67}{section*.83}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {8.6\hfil } Cobertura neta en los departamentos}{68}{section*.84}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {8.7\hfil } Repitencia}{69}{section*.85}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {8.8\hfil } Repitencia por sexo}{69}{section*.86}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {8.9\hfil } Repitencia en los departamentos}{70}{section*.87}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {8.10\hfil } Sobre-edad}{71}{section*.88}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {8.11\hfil } Sobre-edad por sexo}{71}{section*.89}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {8.12\hfil } Sobre-edad en los departamentos}{72}{section*.90}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {8.13\hfil } Deserción}{73}{section*.91}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {8.14\hfil } Deserción por sexo}{73}{section*.92}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {8.15\hfil } Deserción en los departamentos}{74}{section*.93}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {8.16\hfil } Aprobación}{75}{section*.94}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {8.17\hfil } Aprobación por sexo}{75}{section*.95}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {8.18\hfil } Aprobación en los departamentos}{76}{section*.96}
+\thispagestyle {empty}
+\addvspace {3.1\baselineskip }\color {color2!60!black}
+\textbf {\Cinzel \relax \fontsize {12}{14}\selectfont PARTE {II} }\\[1.0mm] {\Cinzel \relax \fontsize {12}{14}\selectfont Estadísticas de educación superior }\\[-2.5mm] \par 
+\addvspace {0.2\baselineskip }{\color {color2}\hrule height 0.9pt} \vskip 0.6\baselineskip \relax \color {black}
+\addvspace {-0.1\baselineskip }\color {black}
+\addvspace {0.6\baselineskip }\color {color1}
+\contentsline {chapter}{\hbox to\@tempdima {9\hfil }Matriculados en educación superior}{79}{section*.98}
+\color {black}\vskip 0.2\baselineskip \relax 
+\contentsline {section}{\hbox to\@tempdima {9.1\hfil } Matriculados}{81}{section*.99}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {9.2\hfil } Crecimiento matriculados}{81}{section*.100}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {9.3\hfil } Matriculados en sector privado}{82}{section*.101}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {9.4\hfil } Tipo de ingreso}{82}{section*.102}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {9.5\hfil } Mujeres matriculadas}{83}{section*.103}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {9.6\hfil } Crecimiento matriculados por sexo}{83}{section*.104}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {9.7\hfil } Edad de los matriculados}{84}{section*.105}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {9.8\hfil } Edad y sexo de los matriculados}{84}{section*.106}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {9.9\hfil } Matriculados nuevos por sexo}{85}{section*.107}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {9.10\hfil } Edad de los matriculados nuevos}{85}{section*.108}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {9.11\hfil } Grado académico}{86}{section*.109}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {9.12\hfil } Grado académico en la universidad pública}{86}{section*.110}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {9.13\hfil } Mujeres según grado académico}{87}{section*.111}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {9.14\hfil } Campo de estudio}{87}{section*.112}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {9.15\hfil } Estudiantes en la universidad pública, por campo de estudio }{88}{section*.113}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {9.16\hfil } Mujeres según campo de estudio}{88}{section*.114}
+\thispagestyle {empty}
+\addvspace {0.6\baselineskip }\color {color1}
+\contentsline {chapter}{\hbox to\@tempdima {10\hfil }Graduados de educación superior}{89}{section*.115}
+\color {black}\vskip 0.2\baselineskip \relax 
+\contentsline {section}{\hbox to\@tempdima {10.1\hfil } Graduados}{91}{section*.116}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {10.2\hfil } Mujeres graduadas}{91}{section*.117}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {10.3\hfil } Grado obtenido}{92}{section*.118}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {10.4\hfil } Grado obtenido según sexo}{92}{section*.119}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {10.5\hfil } Graduados según campo de estudio}{93}{section*.120}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {10.6\hfil } Graduados según campo de estudio y sector}{93}{section*.121}
+\thispagestyle {empty}
+\addvspace {3.1\baselineskip }\color {color2!60!black}
+\textbf {\Cinzel \relax \fontsize {12}{14}\selectfont PARTE {III} }\\[1.0mm] {\Cinzel \relax \fontsize {12}{14}\selectfont Educación y fecundidad }\\[-2.5mm] \par 
+\addvspace {0.2\baselineskip }{\color {color2}\hrule height 0.9pt} \vskip 0.6\baselineskip \relax \color {black}
+\addvspace {-0.1\baselineskip }\color {black}
+\addvspace {0.6\baselineskip }\color {color1}
+\contentsline {chapter}{\hbox to\@tempdima {11\hfil }Nacimientos: características escolares de las madres}{97}{section*.123}
+\color {black}\vskip 0.2\baselineskip \relax 
+\contentsline {section}{\hbox to\@tempdima {11.1\hfil } Nacimientos}{99}{section*.124}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {11.2\hfil } Escolaridad de la madre}{99}{section*.125}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {11.3\hfil } Madres sin escolaridad}{100}{section*.126}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {11.4\hfil } Madres sin escolaridad por etnia}{100}{section*.127}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {11.5\hfil } Madres sin escolaridad en los departamentos}{101}{section*.128}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {11.6\hfil } Promedio de hijos}{102}{section*.129}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {11.7\hfil } Promedio de hijos de madres sin escolaridad}{102}{section*.130}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {11.8\hfil } Promedio de hijos de madres sin escolaridad en los departamentos}{103}{section*.131}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {11.9\hfil } Madres que recibieron atención médica}{104}{section*.132}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {11.10\hfil } Madres sin escolaridad que recibieron atención médica}{104}{section*.133}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {11.11\hfil } Madres sin escolaridad que recibieron atención médica\newline en los departamentos}{105}{section*.134}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {11.12\hfil } Nacimientos ocurridos en centro médico, según escolaridad la madre}{106}{section*.135}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {11.13\hfil } Nacimientos ocurridos en centro médico, madres sin escolaridad}{106}{section*.136}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {11.14\hfil } Madres sin escolaridad que recibieron atención médica\newline en los departamentos}{107}{section*.137}
+\thispagestyle {empty}
+\addvspace {3.1\baselineskip }\color {color2!60!black}
+\textbf {\Cinzel \relax \fontsize {12}{14}\selectfont PARTE {IV} }\\[1.0mm] {\Cinzel \relax \fontsize {12}{14}\selectfont Gasto en educación }\\[-2.5mm] \par 
+\addvspace {0.2\baselineskip }{\color {color2}\hrule height 0.9pt} \vskip 0.6\baselineskip \relax \color {black}
+\addvspace {-0.1\baselineskip }\color {black}
+\addvspace {0.6\baselineskip }\color {color1}
+\contentsline {chapter}{\hbox to\@tempdima {12\hfil }Gasto público y financiamiento}{111}{section*.139}
+\color {black}\vskip 0.2\baselineskip \relax 
+\contentsline {section}{\hbox to\@tempdima {12.1\hfil } Evolución del gasto, por sector}{113}{section*.140}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {12.2\hfil } Gasto por sector}{113}{section*.141}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {12.3\hfil } Crecimiento del gasto en educación}{114}{section*.142}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {12.4\hfil } Evolución del gasto en educación, por entidad}{114}{section*.143}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {12.5\hfil } Gasto por entidad}{115}{section*.144}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {12.6\hfil } Crecimiento del gasto en educación por entidad}{115}{section*.145}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {12.7\hfil } Evolución del gasto en educación, por grupo}{116}{section*.146}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {12.8\hfil } Gasto en educación por grupo}{116}{section*.147}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {12.9\hfil } Crecimiento del gasto en educación por grupo}{117}{section*.148}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {12.10\hfil } Evolución del gasto en educación, por tipo}{117}{section*.149}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {12.11\hfil } Gasto en educación por tipo}{118}{section*.150}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {12.12\hfil } Crecimiento del gasto en educación por tipo}{118}{section*.151}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {12.13\hfil } Evolución del gasto en educación por función}{119}{section*.152}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {12.14\hfil } Gasto en educación por función}{119}{section*.153}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {12.15\hfil } Crecimiento del gasto en educación por función}{120}{section*.154}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {12.16\hfil } Evolución de las fuentes de financiamiento}{120}{section*.155}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {12.17\hfil } Fuentes de financiamiento}{121}{section*.156}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {12.18\hfil } Crecimiento de la fuentes de financiamiento}{121}{section*.157}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {12.19\hfil } Gasto en educación en relación al PIB}{122}{section*.158}
+\thispagestyle {empty}

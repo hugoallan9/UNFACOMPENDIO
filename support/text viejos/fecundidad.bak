@@ -1,0 +1,69 @@
+\INEchaptercarta[Fecundidad y planificación familiar]{Características escolares de las mujeres en edad fértil}{}
+
+
+
+\cajita{TGF}{La tasa global de fecundidad, según la encuesta nacional de salud materno infantil 2008-09, ha disminuido de 5.6 hijos por mujer a 3.6.}{Tasa global de fecundidad }{República de Guatemala, serie histórica por ENSMI, niños por mujer}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ensmi/}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\cajita{TGF según escolaridad}{Según el nivel de escolaridad de las mujeres, la tasa de fecundidad en mujeres con educación superior fue de 1.7 hijos por mujer. Asimismo, 5.2 hijos por mujer es la tasa de fecundidad en las mujeres sin educación.}{Tasa global de fecundidad por nivel de educación}{República de Guatemala, 2008-09, niños por mujer}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ensmi/}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\cajita{TGF mujeres sin educación}{Según la encuesta nacional de salud materno infantil, el número de hijos por mujer sin educación ha disminuido de 7.1 a 5.2.}{Tasa global de fecundidad de las mujeres sin educación}{República de Guatemala, serie histórica por ENSMI, niños por mujer}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ensmi/}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+%
+\cajita{Primera relación sexual}{La edad mediana de la primera relación sexual en las mujeres se ha mantenido en los 18 años, con leves variaciones, desde 1987.}{Edad mediana de la primera relación sexual de las mujeres}{República de Guatemala, serie histórica por ENSMI, años}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ensmi/}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\cajita{Primera relación sexual según escolaridad}{La mayor edad mediana de la primera relación sexual se da entre las mujeres con estudios superiores, siendo esta a los 23.5 años. La edad mediana más temprana se da en mujeres sin educación, a los 16.9 años.}{Edad mediana de la primera relación sexual de las mujeres, por nivel de educación}{República de Guatemala, 2008-09, años}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ensmi/}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+%
+%\cajita{Primera relación sexual de mujeres sin educación}{}{Edad mediana de la primera relación sexual de las mujeres sin ningún nivel educativo alcanzado}{República de Guatemala, serie histórica por ENSMI, años}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ensmi/}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+%
+%\cajita{Primer nacimiento}{}{Edad mediana del primer nacimiento en mujeres entre 20 y 49 años}{República de Guatemala, serie histórica por ENSMI, años}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ensmi/}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+%
+%
+%\cajita{Primer nacimiento según escolaridad}{}{Edad mediana del primer nacimiento en mujeres entre 20 y 49 años, por nivel de educación}{República de Guatemala, 2008-09, años}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ensmi/}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+%
+%
+%\cajita{Primer nacimiento, mujeres sin educación}{}{Edad mediana del primer nacimiento en mujeres sin educación, entre 20 y 49 años}{República de Guatemala, serie histórica por ENSMI, años}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ensmi/}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+%
+
+
+\cajita{Cantidad de hijos deseados y observados}{
+	La tasa de fecundidad deseada y observada, según los datos reportados en las encuestas nacionales de salud materno infantil, muestra que,  en general,  la tasa observada es mayor en un hijo, respecto a lo deseado.
+	}{Tasa de fecundidad deseada y observada}{República de Guatemala, serie histórica por ENSMI, niños por mujer}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ensmi/}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\cajita{Cantidad de hijos deseados y observados según escolaridad}{Según el grado de escolaridad de las mujeres, la tasa de fecundidad deseada en aquellas con educación superior es de 1.9 hijos y la observada de 2.3 hijos por mujer.\\
+	
+	La tasa más alta se presenta en mujeres sin educación, con una tasa deseada de hijos de 4.2 mientras que la observada en este grupo es de 5.2 hijos por mujer.}{Tasa de fecundidad deseada y observada por nivel de educación}{República de Guatemala, 2008-09, niños por mujer}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ensmi/}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\cajita{Cantidad de hijos deseados y observados en mujeres sin educación}{La tasa de hijos deseados en mujeres sin educación tiene una tendencia descendente, de 6.2 hijos por mujer en la encuesta realizada en 1987 a 4.2 en el 2008-09. Esto es una disminución de 2 hijos por mujer.}{Tasa de fecundidad deseada y observada en mujeres sin ningún nivel educativo alcanzado}{República de Guatemala, serie histórica por ENSMI, niños por mujer}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ensmi/}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+%
+
+\cajita{Conocimiento de métodos anticonceptivos}{De las mujeres que viven en unión, la tendencia sobre el conocimiento en el uso de métodos de planificación familiar ha ido en crecimiento, de 71.9\% (1987)  a  97.4\% (2008-09).}{Proporción de mujeres en unión que conocen algún método de planificación familiar}{República de Guatemala, serie histórica por ENSMI, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ensmi/}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\cajita{Conocimiento de métodos anticonceptivos según escolaridad}{Según el nivel de escolaridad, el 100\% de las mujeres en unión con educación superior conoce acerca de métodos de planificación familiar.\\
+	
+	 El menor porcentaje se presenta en las mujeres en unión sin educación, con el 93.3\%.}{Proporción de mujeres en unión que conocen algún método de planificación familiar, por nivel de educación}{República de Guatemala, 2008-09, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ensmi/}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\cajita{Conocimiento de métodos anticonceptivos mujeres sin educación}{Las mujeres que viven en unión y que no tienen educación que tienen algún tipo de conocimiento sobre métodos de planificación familiar ha ido en aumento, del 53\% en 1987 al 93.3\% en el 2009.}{Proporción de mujeres en unión y sin educación, que conocen algún método de planificación familiar}{República de Guatemala, serie histórica por ENSMI, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ensmi/}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+
+\cajita{Uso de métodos anticonceptivos}{De las mujeres que viven en unión, la tendencia en  el uso de métodos de planificación familiar ha ido en crecimiento, de 23.2\% (1987)  a  54.1\% (2008-09).}{Proporción de mujeres en unión que usan algún método de planificación familiar}{República de Guatemala, serie histórica por ENSMI, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ensmi/}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\cajita{Uso de métodos anticonceptivos según escolaridad}{Según el nivel de escolaridad, el 70.2\% de las mujeres en unión con educación superior usa algún método de planificación familiar.\\
+	
+	 El menor porcentaje se presenta en las mujeres en unión sin educación, con el 29.9\%.}{Proporción de mujeres en unión que usan algún método de planificación familiar, por nivel de educación}{República de Guatemala, 2008-09, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ensmi/}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\cajita{Uso de métodos anticonceptivos mujeres sin educación}{Las mujeres que viven en unión y que no tienen educación que usan algún método de planificación familiar ha ido en aumento, del 9.8\% en 1987 al 29.9\% en el 2009.}{Proporción de mujeres en unión y sin educación, que usan algún método de planificación familiar}{República de Guatemala, serie histórica por ENSMI, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ensmi/}  \end{tikzpicture}}{Instituto Nacional de Estadística}

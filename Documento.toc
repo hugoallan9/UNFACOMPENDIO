@@ -1,0 +1,23 @@
+\select@language {spanish}
+\thispagestyle {empty}
+\addvspace {3.1\baselineskip }\color {color2!60!black}
+\textbf {\Cinzel \relax \fontsize {12}{14}\selectfont PARTE {I} }\\[1.0mm] {\Cinzel \relax \fontsize {12}{14}\selectfont Alfabetismo }\\[-2.5mm] \par 
+\addvspace {0.2\baselineskip }{\color {color2}\hrule height 0.9pt} \vskip 0.6\baselineskip \relax \color {black}
+\addvspace {-0.1\baselineskip }\color {black}
+\addvspace {0.6\baselineskip }\color {color1}
+\contentsline {chapter}{\hbox to\@tempdima {1\hfil }Alfabetismo}{5}{section*.2}
+\color {black}\vskip 0.2\baselineskip \relax 
+\contentsline {section}{\hbox to\@tempdima {1.1\hfil } Alfabetismo}{7}{section*.3}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.2\hfil } Alfabetismo según sexo}{7}{section*.4}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.3\hfil } Alfabetismo por edad}{8}{section*.5}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.4\hfil } Alfabetismo por etnia}{8}{section*.6}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.5\hfil } Alfabetismo según etnia y sexo}{9}{section*.7}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.6\hfil } Alfabetismo por área de residencia}{9}{section*.8}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {1.7\hfil } Alfabetismo por área y sexo}{10}{section*.9}
+\thispagestyle {empty}

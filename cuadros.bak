@@ -1,0 +1,1141 @@
+\INEchaptercarta{Cuadros Estadísticos}{}
+\addtocounter{Cuadro}{1}
+
+\fontsize{7mm}{1.5em}\selectfont \setlength{\arrayrulewidth}{0.9pt}
+\textbf{}\\
+$\,$\\[-1cm]
+\begin{tabular}{lS[table-format=8]S[table-format=8]S[table-format=8]}
+		\multicolumn{4}{l}{$\ $}\\[0.15cm]
+		\multicolumn{4}{l}{\Bold\color{color1!80!black}{\normalsize Cuadro \theCuadro $\,-$ Educación preprimaria: Inscripción inicial}}\\[-0.05cm]
+		\multicolumn{4}{l}{\normalsize	\textbf{Tasa bruta de matrícula de preprimaria, por departamento}}\\[-0.05cm]				
+		\multicolumn{4}{l}{\normalsize Año 2013}\\[0.3cm]
+\end{tabular}
+$\ $\\[-2cm]
+\begin{center}\fontsize{4.5mm}{1em}\selectfont \setlength{\arrayrulewidth}{0.9pt}
+		\textbf{}\\
+	
+		$\,$\\[-0.1cm]
+		\begin{tabular}{m{45mm}S[table-format=7]S[table-format=7]S[table-format=3.1]}
+						\hline
+			\rowcolor{color2!15!white} &&&\\[-4mm]
+			\rowcolor{color2!15!white} \textbf{Departamento}&\textbf{Inscritos} & \textbf{Población (5 y 6 años)}	& \textbf{Tasa Bruta (5 y 6 años)	} \\
+			\rowcolor{color2!15!white}	&&&\\[-0.4cm]
+			\hline
+			\rowcolor{white} &&&\\[-0.4cm]
+		\textbf{República}	&	\textbf{543,226}	&	\textbf{855,713}	&	\textbf{63.5}	\\
+		Totonicapán	&	14,025	&	34,139	&	41.1	\\
+		Huehuetenango	&	30,391	&	72,030	&	42.2	\\
+		Alta Verapaz	&	30,620	&	72,449	&	42.3	\\
+		Chimaltenango	&	17,700	&	40,174	&	44.1	\\
+		Petén	&	24,370	&	44,560	&	54.7	\\
+		Sololá	&	16,757	&	29,978	&	55.9	\\
+		San Marcos	&	34,965	&	59,953	&	58.3	\\
+		Izabal	&	14,999	&	24,254	&	61.8	\\
+		Jalapa	&	13,408	&	21,414	&	62.6	\\
+		Quetzaltenango	&	29,317	&	45,999	&	63.7	\\
+		Chiquimula	&	15,151	&	22,739	&	66.6	\\
+		Baja Verapaz	&	12,292	&	17,028	&	72.2	\\
+		Escuintla	&	27,734	&	35,661	&	77.8	\\
+		Suchitepéquez	&	23,824	&	30,498	&	78.1	\\
+		Sacatepéquez	&	13,148	&	16,505	&	79.7	\\
+		Jutiapa	&	21,340	&	26,776	&	79.7	\\
+		Santa Rosa	&	16,677	&	19,614	&	85.	\\
+		Retalhuleu	&	15,146	&	17,203	&	88.	\\
+		Guatemala	&	126,620	&	135,328	&	93.6	\\
+		El Progreso	&	7,981	&	8,402	&	95.	\\
+		Zacapa	&	11,255	&	11,424	&	98.5	\\
+		&&&\\[-0.4cm]
+		\hline		
+		&&&\\[-0.3cm]
+		\multicolumn{4}{l}{\footnotesize Fuente: Instituto Nacional de Estadística}
+		\end{tabular}\addtocounter{Cuadro}{1}
+	\end{center}
+	
+\newpage	
+	
+	 % %% %
+\fontsize{7mm}{1em}\selectfont \setlength{\arrayrulewidth}{0.9pt}
+\textbf{}\\
+$\,$\\[-1cm]
+\begin{tabular}{llll}
+		\multicolumn{4}{l}{$\ $}\\[0.15cm]
+		\multicolumn{4}{l}{\Bold\color{color1!80!black}{\normalsize Cuadro \theCuadro $\,-$ Educación preprimaria: Inscripción inicial}}\\[-0.05cm]
+		\multicolumn{4}{l}{\normalsize	\textbf{Tasa  neta de matrícula de preprimaria, por departamento}}\\[-0.05cm]					
+		\multicolumn{4}{l}{\normalsize Año 2013}		\\
+\end{tabular}
+	
+$\ $\\[-3cm]	
+	\begin{center}\fontsize{4.5mm}{1em}\selectfont \setlength{\arrayrulewidth}{0.9pt}
+		\textbf{}\\
+		
+		$\,$\\[-0.1cm]
+		\begin{tabular}{m{45mm}S[table-format=7]S[table-format=7]S[table-format=3.1]}
+					\hline
+			\rowcolor{color2!15!white} &&&\\[-4mm]
+			\rowcolor{color2!15!white} \textbf{Departamento}&\textbf{Inscritos} & \textbf{Población (5 y 6 años)}	& \textbf{Tasa neta (5 y 6 años)	} \\
+			\rowcolor{color2!15!white}	&&&\\[-0.4cm]
+			\hline
+			\rowcolor{white} &&&\\[-0.4cm]
+		\textbf{República}	&	\textbf{394,992	}&	\textbf{855,713}	&	\textbf{46.2}\\
+Totonicapán	&	11,130	&	34,139	&	32.6	\\
+Alta Verapaz	&	25,202	&	72,449	&	34.8	\\
+Huehuetenango	&	25,275	&	72,030	&	35.1	\\
+Chimaltenango	&	14,515	&	40,174	&	36.1	\\
+Petén	&	16,238	&	44,560	&	36.4	\\
+Sololá	&	12,452	&	29,978	&	41.5	\\
+Jalapa	&	9,236	&	21,414	&	43.1	\\
+Izabal	&	10,613	&	24,254	&	43.8	\\
+San Marcos	&	27,174	&	59,953	&	45.3	\\
+Chiquimula	&	10,552	&	22,739	&	46.4	\\
+Quetzaltenango	&	21,527	&	45,999	&	46.8	\\
+Baja Verapaz	&	8,150	&	17,028	&	47.9	\\
+Jutiapa	&	14,178	&	26,776	&	53	\\
+Suchitepéquez	&	16,217	&	30,498	&	53.2	\\
+Sacatepéquez	&	8,974	&	16,505	&	54.4	\\
+Escuintla	&	20,208	&	35,661	&	56.7	\\
+Santa Rosa	&	11,244	&	19,614	&	57.3	\\
+Retalhuleu	&	9,967	&	17,203	&	57.9	\\
+Zacapa	&	6,803	&	11,424	&	59.5	\\
+El Progreso	&	5,018	&	8,402	&	59.7	\\
+Guatemala	&	89,836	&	135,328	&	66.4	\\
+		&&&\\[-0.4cm]
+		\hline		
+		&&&\\[-0.3cm]
+		\multicolumn{4}{l}{\footnotesize Fuente: Instituto Nacional de Estadística}
+		\end{tabular}\addtocounter{Cuadro}{1}
+	\end{center}
+	
+	
+%primaria
+
+\fontsize{7mm}{1em}\selectfont \setlength{\arrayrulewidth}{0.9pt}
+\textbf{}\\
+$\,$\\[-1cm]
+\begin{tabular}{lS[table-format=8]S[table-format=8]S[table-format=8]}
+		\multicolumn{4}{l}{$\ $}\\[0.15cm]
+		\multicolumn{4}{l}{\Bold\color{color1!80!black}{\normalsize Cuadro \theCuadro $\,-$ Educación primaria: Inscripción inicial}}\\[-0.05cm]
+		\multicolumn{4}{l}{\normalsize	\textbf{Tasa bruta de matrícula de primaria, por departamento}}\\[-0.05cm]					
+		\multicolumn{4}{l}{\normalsize Año 2013}		\\
+	\end{tabular}
+$\ $\\[-2cm]
+\begin{center}\fontsize{4.5mm}{1.em}\selectfont \setlength{\arrayrulewidth}{0.9pt}
+	\textbf{}\\
+	
+	$\,$\\[-0.1cm]
+	\begin{tabular}{m{45mm}S[table-format=8]S[table-format=8]S[table-format=3.1]}
+		\hline
+	\rowcolor{color2!15!white} &&&\\[-4mm]
+	\rowcolor{color2!15!white} \textbf{Departamento}&\textbf{Inscritos} & \textbf{Población (7 a 12 años)}	& \textbf{Tasa bruta (7 a 12 años)	} \\
+	\rowcolor{color2!15!white}	&&&\\[-0.4cm]
+	\hline
+	\rowcolor{white} &&&\\[-0.4cm]
+	\textbf{República}	&	\textbf{2,476,379}	&	\textbf{2,409,120}	&	\textbf{102.8}	\\
+	Totonicapán	&	78,447	&	89,149	&	88.0	\\
+	Sololá	&	71,433	&	79,917	&	89.4	\\
+	Chimaltenango	&	98,471	&	109,677	&	89.8	\\
+	Sacatepéquez	&	47,012	&	47,760	&	98.4	\\
+	Quiché	&	182,993	&	185,864	&	98.5	\\
+	Jalapa	&	58,182	&	58,759	&	99.0	\\
+	Izabal	&	70,966	&	68,912	&	103.0	\\
+	Baja Verapaz	&	49,392	&	47,627	&	103.7	\\
+	Alta Verapaz	&	212,762	&	204,591	&	104.0	\\
+	Guatemala	&	432,201	&	410,355	&	105.3	\\
+	Huehuetenango	&	214,366	&	203,066	&	105.6	\\
+	Chiquimula	&	68,279	&	64,567	&	105.7	\\
+	Jutiapa	&	79,711	&	75,126	&	106.1	\\
+	Quetzaltenango	&	135,700	&	127,284	&	106.6	\\
+	Suchitepéquez	&	91,499	&	85,188	&	107.4	\\
+	Escuintla	&	111,625	&	102,281	&	109.1	\\
+	El Progreso	&	27,212	&	24,257	&	112.2	\\
+	Santa Rosa	&	62,698	&	55,865	&	112.2	\\
+	San Marcos	&	191,630	&	170,506	&	112.4	\\
+	Retalhuleu	&	53,783	&	47,816	&	112.5	\\
+	Zacapa	&	38,931	&	34,083	&	114.2	\\
+		&&&\\[-0.4cm]
+		\hline		
+		&&&\\[-0.3cm]
+		\multicolumn{4}{l}{\footnotesize Fuente: Instituto Nacional de Estadística}
+	\end{tabular}\addtocounter{Cuadro}{1}
+\end{center}
+
+
+
+% % % %
+\fontsize{7mm}{1em}\selectfont \setlength{\arrayrulewidth}{0.9pt}
+\textbf{}\\
+$\,$\\[-1cm]
+\begin{tabular}{lS[table-format=8]S[table-format=8]S[table-format=8]}
+		\multicolumn{4}{l}{$\ $}\\[0.15cm]
+		\multicolumn{4}{l}{\Bold\color{color1!80!black}{\normalsize Cuadro \theCuadro $\,-$ Educación primaria: Inscripción inicial}}\\[-0.05cm]
+		\multicolumn{4}{l}{\normalsize	\textbf{Tasa  neta de matrícula de primaria, por departamento}}\\[-0.05cm]					
+		\multicolumn{4}{l}{\normalsize Año 2013}		\\	
+\end{tabular}
+$\ $\\[-2cm]
+
+\begin{center}\fontsize{4.5mm}{1.em}\selectfont \setlength{\arrayrulewidth}{0.9pt}
+	\textbf{}\\
+	
+	$\,$\\[-0.1cm]
+	\begin{tabular}{m{45mm}S[table-format=8]S[table-format=8]S[table-format=3.1]}
+	\hline
+\rowcolor{color2!15!white} &&&\\[-4mm]
+\rowcolor{color2!15!white} \textbf{Departamento}&\textbf{Inscritos} & \textbf{Población (7 a 12 años)}	& \textbf{Tasa neta (7 a 12 años)	} \\
+\rowcolor{color2!15!white}	&&&\\[-0.4cm]
+\hline
+\rowcolor{white} &&&\\[-0.4cm]
+\textbf{República}	&	\textbf{2,060,096}	&	\textbf{2,409,120}	&	\textbf{85.5}	\\
+Totonicapán	&	64,466	&	89,149	&	72.3	\\
+Sololá	&	59,612	&	79,917	&	74.6	\\
+Chimaltenango	&	85,480	&	109,677	&	77.9	\\
+Quiché	&	147,089	&	185,864	&	79.1	\\
+Alta Verapaz	&	165,114	&	204,591	&	80.7	\\
+Jalapa	&	48,521	&	58,759	&	82.6	\\
+Baja Verapaz	&	39,845	&	47,627	&	83.7	\\
+Izabal	&	57,868	&	68,912	&	84	\\
+Sacatepéquez	&	41,248	&	47,760	&	86.4	\\
+Huehuetenango	&	176,947	&	203,066	&	87.1	\\
+Chiquimula	&	56,392	&	64,567	&	87.3	\\
+Jutiapa	&	66,439	&	75,126	&	88.4	\\
+Suchitepéquez	&	75,648	&	85,188	&	88.8	\\
+Quetzaltenango	&	113,595	&	127,284	&	89.2	\\
+Escuintla	&	92,580	&	102,281	&	90.5	\\
+Santa Rosa	&	51,648	&	55,865	&	92.5	\\
+Guatemala	&	379,993	&	410,355	&	92.6	\\
+El Progreso	&	22,503	&	24,257	&	92.8	\\
+Retalhuleu	&	44,376	&	47,816	&	92.8	\\
+San Marcos	&	159,634	&	170,506	&	93.6	\\
+Zacapa	&	32,435	&	34,083	&	95.2	\\
+		&&&\\[-0.4cm]
+		\hline		
+		&&&\\[-0.3cm]
+		\multicolumn{4}{l}{\footnotesize Fuente: Instituto Nacional de Estadística}
+	\end{tabular}\addtocounter{Cuadro}{1}
+\end{center}
+
+
+%bàsico
+
+\fontsize{7mm}{1em}\selectfont \setlength{\arrayrulewidth}{0.9pt}
+\textbf{}\\
+$\,$\\[-1cm]
+\begin{tabular}{lS[table-format=8]S[table-format=8]S[table-format=8]}
+			\multicolumn{4}{l}{$\ $}\\[0.15cm]
+			\multicolumn{4}{l}{\Bold\color{color1!80!black}{\normalsize Cuadro \theCuadro $\,-$ Educación bàsica: Inscripción inicial}}\\[-0.05cm]
+			\multicolumn{4}{l}{\normalsize	\textbf{Tasa bruta de matrícula de bàsica, por departamento}}\\[-0.05cm]					
+			\multicolumn{4}{l}{\normalsize Año 2013}		\\
+	
+\end{tabular}
+$\ $\\[-2cm]
+\begin{center}\fontsize{4.5mm}{1em}\selectfont \setlength{\arrayrulewidth}{0.9pt}
+	\textbf{}\\
+	
+	$\,$\\[-0.1cm]
+	\begin{tabular}{m{45mm}S[table-format=8]S[table-format=8]S[table-format=3.1]}
+		\hline
+		\rowcolor{color2!15!white} &&&\\[-4mm]
+		\rowcolor{color2!15!white} \textbf{Departamento}&\textbf{Inscritos} & \textbf{Población 13 a 15 años}	& \textbf{Tasa Bruta (13 a 15 años)	} \\
+		\rowcolor{color2!15!white}	&&&\\[-0.4cm]
+			\hline
+		\rowcolor{white} &&&\\[-0.4cm]
+	\textbf{República}	&	\textbf{764,415}	&	\textbf{1,100,886}	&\textbf{	69.4}	\\
+	Quiché	&	31,906	&	78,878	&	40.4	\\
+	Alta Verapaz	&	40,155	&	93,498	&	42.9	\\
+	Chiquimula	&	14,611	&	29,379	&	49.7	\\
+	Totonicapán	&	17,950	&	35,666	&	50.3	\\
+	Petén	&	25,197	&	48,475	&	52.0	\\
+	Jalapa	&	13,378	&	25,644	&	52.2	\\
+	Baja Verapaz	&	12,509	&	22,008	&	56.8	\\
+	Chimaltenango	&	28,464	&	47,749	&	59.6	\\
+	Izabal	&	19,701	&	32,277	&	61.	\\
+	San Marcos	&	50,949	&	80,148	&	63.6	\\
+	Sololá	&	21,790	&	32,899	&	66.2	\\
+	Zacapa	&	11,296	&	16,869	&	67.0	\\
+	Suchitepéquez	&	28,501	&	39,429	&	72.3	\\
+	Jutiapa	&	24,638	&	33,633	&	73.3	\\
+	Escuintla	&	38,963	&	49,065	&	79.4	\\
+	Santa Rosa	&	20,960	&	26,255	&	79.8	\\
+	Quetzaltenango	&	46,920	&	57,307	&	81.9	\\
+	Sacatepéquez	&	19,263	&	22,550	&	85.4	\\
+	El Progreso	&	9,966	&	11,473	&	86.9	\\
+	Retalhuleu	&	19,356	&	22,239	&	87.	\\
+	Guatemala	&	230,778	&	203,546	&	113.4	\\
+		&&&\\[-0.4cm]
+		\hline		
+		&&&\\[-0.3cm]
+		\multicolumn{4}{l}{\footnotesize Fuente: Instituto Nacional de Estadística}
+	\end{tabular}\addtocounter{Cuadro}{1}
+\end{center}
+
+
+% % %
+
+\fontsize{7mm}{1em}\selectfont \setlength{\arrayrulewidth}{0.9pt}
+\textbf{}\\
+$\,$\\[-1cm]
+\begin{tabular}{lS[table-format=8]S[table-format=8]S[table-format=8]}
+			\multicolumn{4}{l}{$\ $}\\[0.15cm]
+			\multicolumn{4}{l}{\Bold\color{color1!80!black}{\normalsize Cuadro \theCuadro $\,-$ Educación bàsica: Inscripción inicial}}\\[-0.05cm]
+			\multicolumn{4}{l}{\normalsize	\textbf{Tasa  neta de matrícula de bàsica, por departamento}}\\[-0.05cm]					
+			\multicolumn{4}{l}{\normalsize Año 2013}		\\
+\end{tabular}
+
+$\ $\\[-2cm]
+
+\begin{center}\fontsize{4.5mm}{1em}\selectfont \setlength{\arrayrulewidth}{0.9pt}
+	\textbf{}\\
+	
+	$\,$\\[-0.1cm]
+	\begin{tabular}{m{45mm}S[table-format=7]S[table-format=8]S[table-format=3.1]}
+
+		\hline
+		\rowcolor{color2!15!white} &&&\\[-4mm]
+		\rowcolor{color2!15!white} \textbf{Departamento}&\textbf{Inscritos} & \textbf{Población 13 a 15 años}	& \textbf{Tasa neta (13 a 15 años)	} \\
+		\rowcolor{color2!15!white}	&&&\\[-0.4cm]
+		\hline
+		\rowcolor{white} &&&\\[-0.4cm]
+		\textbf{República}	&	\textbf{485,553}&	\textbf{1,100,886}	&	\textbf{44.1}	\\
+		Quiché	&	19,338	&	78,878	&	24.5	\\
+		Huehuetenango	&	23,549	&	91,899	&	25.6	\\
+		Petén	&	15,597	&	48,475	&	32.2	\\
+		Chiquimula	&	9,497	&	29,379	&	32.3	\\
+		Totonicapán	&	11,586	&	35,666	&	32.5	\\
+		Jalapa	&	8,734	&	25,644	&	34.1	\\
+		Baja Verapaz	&	8,000	&	22,008	&	36.4	\\
+		Izabal	&	12,149	&	32,277	&	37.6	\\
+		Chimaltenango	&	19,408	&	47,749	&	40.6	\\
+		Sololá	&	14,030	&	32,899	&	42.6	\\
+		San Marcos	&	34,672	&	80,148	&	43.3	\\
+		Zacapa	&	7,519	&	16,869	&	44.6	\\
+		Suchitepéquez	&	18,615	&	39,429	&	47.2	\\
+		Jutiapa	&	16,611	&	33,633	&	49.4	\\
+		Escuintla	&	24,628	&	49,065	&	50.2	\\
+		Santa Rosa	&	13,896	&	26,255	&	52.9	\\
+		Quetzaltenango	&	30,654	&	57,307	&	53.5	\\
+		Retalhuleu	&	12,469	&	22,239	&	56.1	\\
+		El Progreso	&	6,658	&	11,473	&	58.	\\
+		Sacatepéquez	&	13,120	&	22,550	&	58.2	\\
+		Guatemala	&	143,268	&	203,546	&	70.4	\\
+		&&&\\[-0.4cm]
+		\hline		
+		&&&\\[-0.3cm]
+		\multicolumn{4}{l}{\footnotesize Fuente: Instituto Nacional de Estadística}
+	\end{tabular}\addtocounter{Cuadro}{1}
+\end{center}
+
+\newpage
+%diversificado
+
+\fontsize{7mm}{1em}\selectfont \setlength{\arrayrulewidth}{0.9pt}
+\textbf{}\\
+$\,$\\[-1cm]
+\begin{tabular}{lS[table-format=8]S[table-format=8]S[table-format=8]}
+			\multicolumn{4}{l}{$\ $}\\[0.15cm]
+			\multicolumn{4}{l}{\Bold\color{color1!80!black}{\normalsize Cuadro \theCuadro $\,-$ Educación diversificado: Inscripción inicial}}\\[-0.05cm]
+			\multicolumn{4}{l}{\normalsize	\textbf{Tasa bruta de matrícula de diversificado, por departamento}}\\[-0.05cm]					
+			\multicolumn{4}{l}{\normalsize Año 2013}		\\
+	
+\end{tabular}
+$\ $\\[-2cm]
+
+\begin{center}\fontsize{4.5mm}{1em}\selectfont \setlength{\arrayrulewidth}{0.9pt}
+	\textbf{}\\
+	
+	$\,$\\[-0.1cm]
+	\begin{tabular}{m{45mm}S[table-format=7]S[table-format=8]S[table-format=3.1]}
+
+		\hline
+		\rowcolor{color2!15!white} &&&\\[-4mm]
+		\rowcolor{color2!15!white} \textbf{Departamento}&\textbf{Inscritos} & \textbf{Población 16 a 18 años}	& \textbf{Tasa bruta (16 a 18 años)	} \\
+		\rowcolor{color2!15!white}	&&&\\[-0.4cm]
+		\hline
+		\rowcolor{white} &&&\\[-0.4cm]
+\textbf{República}	&	\textbf{395,293}	&	\textbf{1,022,281}	&	\textbf{38.7}	\\
+El Progreso	&	5,298	&	10,871	&	48.7	\\
+Sacatepéquez	&	9,586	&	21,323	&	45.0	\\
+Chimaltenango	&	14,093	&	42,870	&	32.9	\\
+Escuintla	&	19,185	&	47,857	&	40.1	\\
+Santa Rosa	&	10,368	&	24,869	&	41.7	\\
+Sololá	&	10,240	&	28,353	&	36.1	\\
+Totonicapán	&	4,621	&	30,464	&	15.2	\\
+Quetzaltenango	&	31,481	&	53,646	&	58.7	\\
+Suchitepéquez	&	14,949	&	37,376	&	40.0	\\
+Retalhuleu	&	10,828	&	21,472	&	50.4	\\
+San Marcos	&	24,147	&	76,255	&	31.7	\\
+Huehuetenango	&	18,726	&	84,345	&	22.2	\\
+Quiché	&	15,498	&	69,505	&	22.3	\\
+Baja Verapaz	&	5,501	&	20,633	&	26.7	\\
+Alta Verapaz	&	17,128	&	84,605	&	20.2	\\
+Petén	&	12,922	&	43,220	&	29.9	\\
+Izabal	&	9,223	&	30,387	&	30.4	\\
+Zacapa	&	5,758	&	16,214	&	35.5	\\
+Chiquimula	&	8,303	&	26,671	&	31.1	\\
+Jalapa	&	7,237	&	22,853	&	31.7	\\
+Jutiapa	&	13,838	&	30,489	&	45.4	\\
+		&&&\\[-0.4cm]
+		\hline		
+		&&&\\[-0.3cm]
+		\multicolumn{4}{l}{\footnotesize Fuente: Instituto Nacional de Estadística}
+	\end{tabular}\addtocounter{Cuadro}{1}
+\end{center}
+
+
+% % %
+
+
+
+\fontsize{7mm}{1em}\selectfont \setlength{\arrayrulewidth}{0.9pt}
+\textbf{}\\
+$\,$\\[-1cm]
+\begin{tabular}{lS[table-format=8]S[table-format=8]S[table-format=8]}
+			\multicolumn{4}{l}{$\ $}\\[0.15cm]
+			\multicolumn{4}{l}{\Bold\color{color1!80!black}{\normalsize Cuadro \theCuadro $\,-$ Educación diversificado: Inscripción inicial}}\\[-0.05cm]
+			\multicolumn{4}{l}{\normalsize	\textbf{Tasa  neta de matrícula de diversificado, por departamento}}\\[-0.05cm]				
+			\multicolumn{4}{l}{\normalsize Año 2013}\\
+	
+\end{tabular}
+$\ $\\[-2cm]
+
+\begin{center}\fontsize{4.5mm}{1em}\selectfont \setlength{\arrayrulewidth}{0.9pt}
+	\textbf{}\\
+	
+	$\,$\\[-0.1cm]
+	\begin{tabular}{m{45mm}S[table-format=6]S[table-format=8]S[table-format=2.1]}
+
+		\hline
+		\rowcolor{color2!15!white} &&&\\[-4mm]
+		\rowcolor{color2!15!white} \textbf{Departamento}&\textbf{Inscritos} & \textbf{Población 16 a 18 años}	& \textbf{Tasa neto (16 a 18 años)	} \\
+		\rowcolor{color2!15!white}	&&&\\[-0.4cm]
+		\hline
+		\rowcolor{white} &&&\\[-0.4cm]
+\textbf{República}	&	\textbf{250,102}	&	\textbf{1,022,281}	&	\textbf{24.5}	\\
+El Progreso	&	3,599	&	10,871	&	33.1	\\
+Sacatepéquez	&	6,466	&	21,323	&	30.3	\\
+Chimaltenango	&	9,272	&	42,870	&	21.6	\\
+Escuintla	&	12,358	&	47,857	&	25.8	\\
+Santa Rosa	&	6,802	&	24,869	&	27.4	\\
+Sololá	&	6,199	&	28,353	&	21.9	\\
+Totonicapán	&	2,731	&	30,464	&	9.0	\\
+Quetzaltenango	&	19,914	&	53,646	&	37.1	\\
+Suchitepéquez	&	9,691	&	37,376	&	25.9	\\
+Retalhuleu	&	6,953	&	21,472	&	32.4	\\
+San Marcos	&	15,620	&	76,255	&	20.5	\\
+Huehuetenango	&	11,119	&	84,345	&	13.2	\\
+Quiché	&	8,618	&	69,505	&	12.4	\\
+Baja Verapaz	&	3,527	&	20,633	&	17.1	\\
+Alta Verapaz	&	9,021	&	84,605	&	10.7	\\
+Petén	&	7,658	&	43,220	&	17.7	\\
+Izabal	&	5,590	&	30,387	&	18.4	\\
+Zacapa	&	3,868	&	16,214	&	23.9	\\
+Chiquimula	&	5,003	&	26,671	&	18.8	\\
+Jalapa	&	4,623	&	22,853	&	20.2	\\
+Jutiapa	&	9,351	&	30,489	&	30.7	\\
+		&&&\\[-0.4cm]
+		\hline		
+		&&&\\[-0.3cm]
+		\multicolumn{4}{l}{\footnotesize Fuente: Instituto Nacional de Estadística}
+	\end{tabular}\addtocounter{Cuadro}{1}
+\end{center}
+
+
+
+%superior
+
+
+		\fontsize{7mm}{1em}\selectfont \setlength{\arrayrulewidth}{0.9pt}
+		\textbf{}\\
+		$\,$\\[-1cm]
+\begin{tabular}{lS[table-format=8]S[table-format=8]S[table-format=8]}
+				\multicolumn{4}{l}{$\ $}\\[0.15cm]
+				\multicolumn{4}{l}{\Bold\color{color1!80!black}{\normalsize Cuadro \theCuadro $\,-$ Educación superior: matriculados}}\\[-0.05cm]
+				\multicolumn{4}{l}{\normalsize	\textbf{Estudiantes matriculados en educación superior}}\\[-0.05cm]				
+				\multicolumn{4}{l}{\normalsize Serie histórica }\\
+\end{tabular}
+
+\begin{center}\fontsize{5mm}{.9em}\selectfont \setlength{\arrayrulewidth}{0.9pt}
+	\textbf{}\\
+	
+	$\,$\\[-0.1cm]
+	\begin{tabular}{lS[table-format=8]S[table-format=8]S[table-format=8]}
+		\hline
+		\rowcolor{color2!15!white} &&&\\[-4mm]
+		\rowcolor{color2!15!white} & & \multicolumn{2}{c}{\textbf{Sexo}} \\
+		\rowcolor{color2!15!white} \textbf{Años}&\textbf{Total} & \textbf{Hombres}	& \textbf{Mujeres} \\
+		\rowcolor{color2!15!white}	&&&\\[-0.4cm]
+		\hline
+		\rowcolor{white} &&&\\[-0.4cm]
+	2004	&	184,909	&	99,135	&	85,774	\\
+	2005	&	175,392	&	91,577	&	83,815	\\
+	2006	&	175,070	&	90,439	&	84,631	\\
+	2007	&	190,229	&	96,334	&	93,895	\\
+	2008	&	204,897	&	102,982	&	101,915	\\
+	2009	&	216,884	&	106,071	&	110,813	\\
+	2010	&	233,333	&	116,275	&	117,058	\\
+	2011	&	250,543	&	125,676	&	124,867	\\
+	2012	&	264,045	&	131,717	&	132,328	\\
+	2013	&	313,457	&	154,206	&	159,251	\\
+		&&&\\[-0.4cm]
+		\hline		
+		&&&\\[-0.3cm]
+		\multicolumn{4}{l}{\footnotesize Fuente: Instituto Nacional de Estadística}
+	\end{tabular}\addtocounter{Cuadro}{1}
+\end{center}
+
+
+
+
+
+% % % % %
+\newpage
+
+		\fontsize{7mm}{1em}\selectfont \setlength{\arrayrulewidth}{0.9pt}
+		\textbf{}\\
+		$\,$\\[-1cm]
+	\begin{tabular}{m{45mm}S[table-format=6]S[table-format=6]S[table-format=6]}
+		\multicolumn{4}{l}{$\ $}\\[0.15cm]
+		\multicolumn{4}{l}{\Bold\color{color1!80!black}{\normalsize Cuadro \theCuadro $\,-$ Educación superior: matriculados}}\\[-0.05cm]
+		\multicolumn{4}{l}{\normalsize	\textbf{Estudiantes matriculados en educación superior por grupo de edad, según sexo}}\\[-0.05cm]				
+		\multicolumn{4}{l}{\normalsize Año 2013 }		\\
+	\end{tabular}
+	$\ $\\[-1cm]
+\begin{center}\fontsize{4.5mm}{.9em}\selectfont \setlength{\arrayrulewidth}{0.9pt}
+	\textbf{}\\
+	
+	$\,$\\[-0.1cm]
+	\begin{tabular}{lS[table-format=8]S[table-format=8]S[table-format=8]}
+		\hline
+		\rowcolor{color2!15!white} &&&\\[-4mm]
+		\rowcolor{color2!15!white} & & \multicolumn{2}{c}{\textbf{Sector}} \\
+		\rowcolor{color2!15!white} \textbf{Años}& \textbf{Total} & \textbf{Público}	& \textbf{Privado} \\
+		\rowcolor{color2!15!white}	&&&\\[-0.4cm]
+		\hline
+		\rowcolor{white} &&&\\[-0.4cm]
+2004	&	184,909	&	123901	&	61008	\\
+2005	&	175,392	&	112968	&	62424	\\
+2006	&	175,070	&	112257	&	62813	\\
+2007	&	190,229	&	117350	&	72879	\\
+2008	&	204,897	&	126969	&	77928	\\
+2009	&	216,884	&	134196	&	82688	\\
+2010	&	233,333	&	146741	&	86592	\\
+2011	&	250,543	&	153112	&	97431	\\
+2012	&	264,045	&	159611	&	104434	\\
+2013	&	313,457	&	181,360	&	132,097	\\
+		&&&\\[-0.4cm]
+		\hline		
+		&&&\\[-0.3cm]
+		\multicolumn{4}{l}{\footnotesize Fuente: Instituto Nacional de Estadística}
+	\end{tabular}\addtocounter{Cuadro}{1}
+\end{center}
+
+
+
+% % % %
+\newpage
+		\fontsize{7mm}{1em}\selectfont \setlength{\arrayrulewidth}{0.9pt}
+		\textbf{}\\
+		$\,$\\[-1cm]
+	\begin{tabular}{m{45mm}S[table-format=6]S[table-format=6]S[table-format=6]}
+		\multicolumn{4}{l}{$\ $}\\[0.15cm]
+		\multicolumn{4}{l}{\Bold\color{color1!80!black}{\normalsize Cuadro \theCuadro $\,-$ Educación superior: matriculados}}\\[-0.05cm]
+		\multicolumn{4}{l}{\normalsize	\textbf{Estudiantes matriculados en educación superior por grupo de edad, según sexo}}\\[-0.05cm]				
+		\multicolumn{4}{l}{\normalsize Año 2013 }		\\[0.3cm]
+	\end{tabular}
+	$\,$\\[-2cm]
+\begin{center}\fontsize{4.5mm}{.9em}\selectfont \setlength{\arrayrulewidth}{0.9pt}
+	\textbf{}\\
+	
+	$\,$\\[-0.1cm]
+	\begin{tabular}{m{45mm}S[table-format=6]S[table-format=6]S[table-format=6]}
+			\hline
+		\rowcolor{color2!15!white} &&&\\[-4mm]
+		\rowcolor{color2!15!white} & & \multicolumn{2}{c}{\textbf{Sexo}} \\
+		\rowcolor{color2!15!white} \textbf{Grupo de edad}& \textbf{Total} & \textbf{Hombres}	& \textbf{Mujeres} \\
+		\rowcolor{color2!15!white}	&&&\\[-0.4cm]
+		\hline
+		\rowcolor{white} &&&\\[-0.4cm]
+\textbf{	Total}	&	\textbf{313,457}	&	\textbf{153,837}	&	\textbf{159,620}	\\
+	15-19	&	15,614	&	7,239	&	8,375	\\
+	20-24	&	108,943	&	51,904	&	57,039	\\
+	25-29	&	72,280	&	34,955	&	37,325	\\
+	30-34	&	34,625	&	17,614	&	17,011	\\
+	35-39	&	18,473	&	9,461	&	9,012	\\
+	40-44	&	10,780	&	5,360	&	5,420	\\
+	45-49	&	7,198	&	3,586	&	3,612	\\
+	50-54	&	5,124	&	2,492	&	2,632	\\
+	55-59	&	3,338	&	1,620	&	1,718	\\
+Mayor a 59	&	4,043	&	2,040	&	2,003	\\
+	Ignorado	&	33,039	&	17,566	&	15,473	\\
+		&&&\\[-0.4cm]
+		\hline		
+		&&&\\[-0.3cm]
+		\multicolumn{4}{l}{\footnotesize Fuente: Instituto Nacional de Estadística}
+	\end{tabular}\addtocounter{Cuadro}{1}
+\end{center}
+
+
+	$\,$\\[-2cm]
+
+% % % %
+		\fontsize{7mm}{1em}\selectfont \setlength{\arrayrulewidth}{0.9pt}
+		\textbf{}\\
+		$\,$\\[-1cm]
+	\begin{tabular}{m{65mm}S[table-format=8]S[table-format=8]S[table-format=8]}
+		\multicolumn{4}{l}{$\ $}\\[0.15cm]
+		\multicolumn{4}{l}{\Bold\color{color1!80!black}{\normalsize Cuadro \theCuadro $\,-$ Educación superior: matriculados}}\\[-0.05cm]
+		\multicolumn{4}{l}{\normalsize	\textbf{Estudiantes matriculados en educación superior por niveles, segùn sector}}\\[-0.05cm]
+		\multicolumn{4}{l}{\normalsize Año 2013 }		\\[0.3cm]
+	\end{tabular}
+	$\,$\\[-1cm]
+\begin{center}\fontsize{4.5mm}{.9em}\selectfont \setlength{\arrayrulewidth}{1pt}
+	\textbf{}\\
+	$\,$\\[-1cm]
+	\begin{tabular}{m{65mm}S[table-format=8]S[table-format=8]S[table-format=8]}
+			\hline
+		\rowcolor{color2!15!white} &&&\\[-6mm]
+		\rowcolor{color2!15!white} & & \multicolumn{2}{c}{\textbf{Sector}} \\ \cline{2-4}
+		\rowcolor{color2!15!white} \raisebox{4mm}{\textbf{ Nivel }} & \textbf{Total} & \textbf{Público}	& \textbf{Privado} \\[-1mm]
+		\hline
+		\rowcolor{white} &&&\\[-0.4cm]
+	\textbf{Total}	&	\textbf{313,457}	&	\textbf{181,360}	&\textbf{	132,097}	\\
+	Técnico, licenciatura e ingeniería	&	297,795	&	174,420	&	123,375	\\
+	Maestrías, especialización	&	14,951	&	6,442	&	8,509	\\
+	Doctorados o equivalente	&	711	&	498	&	213	\\
+		&&&\\[-0.5cm]
+		\hline		
+		&&&\\[-0.3cm]
+		\multicolumn{4}{l}{\footnotesize Fuente: Instituto Nacional de Estadística}
+	\end{tabular}\addtocounter{Cuadro}{1}
+\end{center}
+
+
+
+%gradudados
+\newpage
+$\ $\\[-2cm]
+		\fontsize{7mm}{1em}\selectfont \setlength{\arrayrulewidth}{0.9pt}
+		\textbf{}\\
+		$\,$\\[-0.1cm]
+	\begin{tabular}{lS[table-format=8]S[table-format=8]S[table-format=8]}
+		\multicolumn{4}{l}{$\ $}\\[0.15cm]
+		\multicolumn{4}{l}{\Bold\color{color1!80!black}{\normalsize Cuadro \theCuadro $\,-$ Educación superior: graduados}}\\[-0.05cm]
+		\multicolumn{4}{l}{\normalsize	\textbf{Estudiantes graduados en educación superior}}\\[-0.05cm]					
+		\multicolumn{4}{l}{\normalsize Serie histórica }		\\[0.3cm]
+	\end{tabular}
+	$\ $\\[-2cm]
+\begin{center}\fontsize{4.5mm}{.9em}\selectfont \setlength{\arrayrulewidth}{1pt}
+	\textbf{}\\
+	
+	$\,$\\[-0.1cm]
+	\begin{tabular}{lS[table-format=8]S[table-format=8]S[table-format=8]}
+		\hline
+		\rowcolor{color2!15!white} &&&\\[-4mm]
+		\rowcolor{color2!15!white} & & \multicolumn{2}{c}{\textbf{Sexo}} \\
+		\rowcolor{color2!15!white} \textbf{Años}& \textbf{Total} & \textbf{Hombres}	& \textbf{Mujeres} \\
+		\rowcolor{color2!15!white}	&&&\\[-0.4cm]
+		\hline
+		\rowcolor{white} &&&\\[-0.4cm]
+	2004	&	9,459	&	4,590	&	4,869	\\
+	2005	&	10,918	&	5,169	&	5,749	\\
+	2006	&	9,192	&	4,377	&	4,815	\\
+	2007	&	9,584	&	4,465	&	5,119	\\
+	2008	&	10,425	&	4,677	&	5,748	\\
+	2009	&	12,746	&	5,893	&	6,853	\\
+	2010	&	14,450	&	6,413	&	8,037	\\
+	2011	&	19,990	&	8,799	&	11,191	\\
+	2012	&	20,831	&	8,683	&	12,148	\\
+	2013	&	24,442	&	10,837	&	13,605	\\
+		&&&\\[-0.4cm]
+		\hline		
+		&&&\\[-0.3cm]
+		\multicolumn{4}{l}{\footnotesize Fuente: Instituto Nacional de Estadística}
+	\end{tabular}\addtocounter{Cuadro}{1}
+\end{center}
+
+% % % %
+$\ $\\[-2cm]
+		\fontsize{7mm}{1em}\selectfont \setlength{\arrayrulewidth}{0.9pt}
+		\textbf{}\\
+		$\,$\\[-0.1cm]
+	\begin{tabular}{m{65mm}S[table-format=5]S[table-format=5]S[table-format=5]}
+		\multicolumn{4}{l}{$\ $}\\[0.15cm]
+		\multicolumn{4}{l}{\Bold\color{color1!80!black}{\normalsize Cuadro \theCuadro $\,-$ Educación superior: graduados}}\\[-0.05cm]
+		\multicolumn{4}{l}{\normalsize	\textbf{Estudiantes graduados en educación superior, por nivel, segùn sector}}\\[-0.05cm]					
+		\multicolumn{4}{l}{\normalsize Serie histórica }		\\[0.3cm]
+	\end{tabular}
+$\ $\\[-2cm]
+\begin{center}\fontsize{4.5mm}{1em}\selectfont \setlength{\arrayrulewidth}{1pt}
+	\textbf{}\\
+	
+	$\,$\\[-0.1cm]
+	\begin{tabular}{m{65mm}S[table-format=5]S[table-format=5]S[table-format=5]}
+		\hline
+		\rowcolor{color2!15!white} &&&\\[-4mm]
+		\rowcolor{color2!15!white} & & \multicolumn{2}{c}{\textbf{Sector}} \\
+		\rowcolor{color2!15!white} \textbf{Nivel}& \textbf{Total} & \textbf{Público}	& \textbf{Privado} \\
+		\rowcolor{color2!15!white}	&&&\\[-0.4cm]
+		\hline
+		\rowcolor{white} &&&\\[-0.4cm]
+		\textbf{Total} & \textbf{24,442} & \textbf{11,578} & \textbf{12,864} \\
+Técnico, licenciatura e ingeniería	&	21,802	&	10,941	&	10,861	\\
+Maestría, especialización 	&	2,604	&	619	&	1,985	\\
+Doctorado o equivalente	&	36	&	18	&	18	\\
+		&&&\\[-0.4cm]
+		\hline		
+		&&&\\[-0.3cm]
+		\multicolumn{4}{l}{\footnotesize Fuente: Instituto Nacional de Estadística}
+	\end{tabular}\addtocounter{Cuadro}{1}
+\end{center}
+
+
+\newpage
+% % %
+$\ $\\[-2cm]
+		\fontsize{7mm}{1em}\selectfont \setlength{\arrayrulewidth}{0.9pt}
+		\textbf{}\\
+		$\,$\\[-0.1cm]
+	\begin{tabular}{m{65mm}S[table-format=5]S[table-format=5]S[table-format=5]}
+		\multicolumn{4}{l}{$\ $}\\[0.15cm]
+		\multicolumn{4}{l}{\Bold\color{color1!80!black}{\normalsize Cuadro \theCuadro $\,-$ Educación superior: graduados}}\\[-0.05cm]
+		\multicolumn{4}{l}{\normalsize	\textbf{Estudiantes graduados en educación superior, por nivel, segùn sexo}}\\[-0.05cm]					
+		\multicolumn{4}{l}{\normalsize Serie histórica }		\\[0.3cm]
+	\end{tabular}
+$\ $\\[-2cm]
+\begin{center}\fontsize{4.5mm}{1em}\selectfont \setlength{\arrayrulewidth}{1pt}
+	\textbf{}\\
+	
+	$\,$\\[-0.1cm]
+	\begin{tabular}{m{65mm}S[table-format=5]S[table-format=5]S[table-format=5]}
+		\hline
+		\rowcolor{color2!15!white} &&&\\[-4mm]
+		\rowcolor{color2!15!white} & & \multicolumn{2}{c}{\textbf{Sexo}} \\
+		\rowcolor{color2!15!white} \textbf{Nivel}& \textbf{Total} & \textbf{Hombres}	& \textbf{Mujeres} \\
+		\rowcolor{color2!15!white}	&&&\\[-0.4cm]
+		\hline
+		\rowcolor{white} &&&\\[-0.4cm]
+		\textbf{Total} & \textbf{24,442} & \textbf{10,837} & \textbf{13,605}\\
+	Técnico, licenciatura e ingeniería	&	21,802	&	9,539	&	12,263	\\
+	Maestría, especialización 	&	2,604	&	1,277	&	1,327	\\
+	Doctorado o equivalente	&	36	&	21	&	15	\\	
+		&&&\\[-0.4cm]
+		\hline		
+		&&&\\[-0.3cm]
+		\multicolumn{4}{l}{\footnotesize Fuente: Instituto Nacional de Estadística}
+	\end{tabular}\addtocounter{Cuadro}{1}
+\end{center}
+
+
+$\ $\\[-2cm]
+% % %
+		\fontsize{7mm}{1em}\selectfont \setlength{\arrayrulewidth}{0.9pt}
+		\textbf{}\\
+		$\,$\\[-0.1cm]
+	\begin{tabular}{m{45mm}S[table-format=5]S[table-format=5]S[table-format=5]}
+		\multicolumn{4}{l}{$\ $}\\[0.15cm]
+		\multicolumn{4}{l}{\Bold\color{color1!80!black}{\normalsize Cuadro \theCuadro $\,-$ Educación superior: graduados}}\\[-0.05cm]
+		\multicolumn{4}{l}{\normalsize	\textbf{Estudiantes graduados en educación superior, por campo, segùn sector}}\\[-0.05cm]					
+		\multicolumn{4}{l}{\normalsize Serie histórica }		\\[0.3cm]
+\end{tabular}
+$\ $\\[-1cm]
+\begin{center}\fontsize{4.5mm}{1em}\selectfont \setlength{\arrayrulewidth}{1pt}
+	\textbf{}\\
+	
+	$\,$\\[-0.1cm]
+	\begin{tabular}{m{45mm}S[table-format=5]S[table-format=5]S[table-format=5]}
+		\hline
+		\rowcolor{color2!15!white} &&&\\[-4mm]
+		\rowcolor{color2!15!white} & & \multicolumn{2}{c}{\textbf{Sector}} \\
+		\rowcolor{color2!15!white} \textbf{Campo}& \textbf{Total} & \textbf{Público}	& \textbf{Privado} \\
+		\rowcolor{color2!15!white}	&&&\\[-0.4cm]
+		\hline
+		\rowcolor{white} &&&\\[-0.4cm]
+\textbf{Total}& \textbf{24,442 }&\textbf{	11,578}	&	\textbf{12,864}	\\
+
+Ciencias Naturales 	&	316	&	237	&	79	\\
+Ingeniería y Tecnología	&	2,966	&	1,149	&	1,817	\\
+Ciencias Médicas	&	2,065	&	1,158	&	907	\\
+Ciencias Agrícolas	&	150	&	150	&	0	\\
+Ciencias Sociales	&	13,989	&	5,612	&	8,377	\\
+Humanidades	&	4,956	&	3,272	&	1,684	\\
+		&&&\\[-0.4cm]
+		\hline		
+		&&&\\[-0.3cm]
+		\multicolumn{4}{l}{\footnotesize Fuente: Instituto Nacional de Estadística}
+	\end{tabular}\addtocounter{Cuadro}{1}
+\end{center}
+
+
+
+%gasto de hogares
+\newpage
+$\ $\\[-2cm]
+		\fontsize{7mm}{1em}\selectfont \setlength{\arrayrulewidth}{0.9pt}
+		\textbf{}\\
+		$\,$\\[-0.1cm]
+		\begin{tabular}{m{45mm}S[table-format=3.2]S[table-format=3.2]S[table-format=3.2]S[table-format=5.2]}
+			\multicolumn{5}{l}{$\ $}\\[0.15cm]
+			\multicolumn{5}{l}{\Bold\color{color1!80!black}{\normalsize Cuadro \theCuadro $\,-$ Gasto de los hogares en educación}}\\[-0.05cm]
+			\multicolumn{5}{l}{\normalsize	\textbf{Gasto promedio per cápita anual en educación por etncidad, según  departamento}}\\[-0.05cm]
+			\multicolumn{5}{l}{\normalsize Año 2011, en quetzales del 2011}		\\[0.3cm]
+		\end{tabular}	
+		$\,$\\[-1cm]	
+\begin{center}\fontsize{4.5mm}{1em}\selectfont \setlength{\arrayrulewidth}{0.9pt}
+	\textbf{}\\
+	
+	$\,$\\[-1cm]
+	\begin{tabular}{m{45mm}S[table-format=3.2]S[table-format=3.2]S[table-format=3.2]S[table-format=5.2]}
+			\hline
+		\rowcolor{color2!15!white} &&&&\\[-4mm]
+		\rowcolor{color2!15!white} \textbf{Departamento}&\textbf{Total} &\textbf{Pobreza Extrema} & \textbf{Pobreza no extrema}	& \textbf{No pobreza} \\
+		\rowcolor{color2!15!white}	&&&&\\[-0.4cm]
+		\hline
+		\rowcolor{white} &&&&\\[-0.4cm]
+\textbf{Total}	&	 \textbf{815.22 }	&	 \textbf{122.46} 	&	 \textbf{279.68} 	&	 \textbf{1,463.20 }	 \\ 
+Guatemala	&	 1,757.85 	&	 175.07 	&	 470.99 	&	 2,068.90 	 \\ 
+El Progreso	&	 733.80 	&	 129.67 	&	 286.14 	&	 1,104.77 	 \\ 
+Sacatepéquez	&	 1,217.41 	&	 95.01 	&	 307.22 	&	 1,881.05 	 \\ 
+Chimaltenango	&	 574.21 	&	 143.51 	&	 326.34 	&	 1,186.73 	 \\ 
+Escuintla	&	 846.06 	&	 109.03 	&	 297.12 	&	 1,213.51 	 \\ 
+Santa Rosa	&	 384.87 	&	 111.80 	&	 234.74 	&	 675.87 	 \\ 
+Sololá	&	 438.25 	&	 101.04 	&	 353.84 	&	 999.32 	 \\ 
+Totonicapán	&	 463.16 	&	 148.45 	&	 305.86 	&	 1,090.21 	 \\ 
+Quetzaltenango	&	 703.66 	&	 133.32 	&	 327.21 	&	 1,233.68 	 \\ 
+Suchitepéquez	&	 528.04 	&	 227.33 	&	 386.51 	&	 1,010.42 	 \\ 
+Retalhuleu	&	 538.40 	&	 162.82 	&	 283.06 	&	 986.35 	 \\ 
+San Marcos	&	 355.97 	&	 150.78 	&	 200.27 	&	 634.16 	 \\ 
+Huehuetenango	&	 538.85 	&	 57.63 	&	 161.23 	&	 1,067.18 	 \\ 
+Quiché	&	 312.49 	&	 93.33 	&	 187.06 	&	 684.44 	 \\ 
+Baja Verapaz	&	 610.83 	&	 168.94 	&	 313.86 	&	 1,212.40 	 \\ 
+Alta Verapaz	&	 384.24 	&	 73.03 	&	 222.35 	&	 1,164.90 	 \\ 
+Petén	&	 553.22 	&	 152.67 	&	 262.89 	&	 1,195.46 	 \\ 
+Izabal	&	 515.75 	&	 147.67 	&	 232.84 	&	 981.80 	 \\ 
+Zacapa	&	 648.63 	&	 110.15 	&	 303.97 	&	 1,131.54 	 \\ 
+Chiquimula	&	 777.10 	&	 153.62 	&	 238.28 	&	 1,495.38 	 \\ 
+Jalapa	&	 370.10 	&	 101.33 	&	 175.85 	&	 865.67 	 \\ 
+Jutiapa	&	 535.21 	&	 139.72 	&	 254.42 	&	 859.46 	 \\ 
+		&&&&\\[-0.4cm]
+		\hline		
+		&&&&\\[-0.3cm]
+		\multicolumn{5}{l}{\footnotesize Fuente: Instituto Nacional de Estadística}
+	\end{tabular}\addtocounter{Cuadro}{1}
+\end{center}
+
+\newpage
+	$\,$\\[-2cm]
+% % %
+		\fontsize{7mm}{1em}\selectfont \setlength{\arrayrulewidth}{0.9pt}
+		\textbf{}\\
+		$\,$\\[-0.1cm]
+	\begin{tabular}{m{45mm}S[table-format=2.1]S[table-format=2.1]S[table-format=2.1]}
+		\multicolumn{4}{l}{$\ $}\\[0.15cm]
+		\multicolumn{4}{l}{\Bold\color{color1!80!black}{\normalsize Cuadro \theCuadro $\,-$ Gasto de los hogares en educación}}\\[-0.05cm]
+		\multicolumn{4}{l}{\normalsize	\textbf{Proporción del gasto promedio per cápita en educación según sexo de la jefatura del hogar }}\\	
+		\multicolumn{4}{l}{\normalsize	\textbf{por departamento}}\\[-0.05cm]				
+		\multicolumn{4}{l}{\normalsize Año 2011}		\\[0.3cm]
+	\end{tabular}
+	$\,$\\[-2cm]
+\begin{center}\fontsize{4.5mm}{.98em}\selectfont \setlength{\arrayrulewidth}{0.9pt}
+	\textbf{}\\
+	$\,$\\[-0.1cm]
+	\begin{tabular}{m{45mm}S[table-format=2.1]S[table-format=2.1]S[table-format=2.1]}
+		\hline
+		\rowcolor{color2!15!white} &&&\\[-4mm]
+		\rowcolor{color2!15!white} \textbf{Departamento}&\textbf{Total} & \textbf{Hombre}	& \textbf{Mujer} \\
+		\rowcolor{color2!15!white}	&&&\\[-0.4cm]
+		\hline
+		\rowcolor{white} &&&\\[-0.4cm]
+	\textbf{Total}	&	\textbf{7.1}	&\textbf{	7.0}	&\textbf{	7.2	}\\
+	Guatemala	&	9.2	&	9.3	&	8.8	\\
+	El Progreso	&	5.8	&	5.0	&	8.0	\\
+	Sacatepéquez	&	9.5	&	8.5	&	12.4	\\
+	Chimaltenango	&	6.0	&	6.2	&	5.5	\\
+	Escuintla	&	6.9	&	6.9	&	6.9	\\
+	Santa Rosa	&	3.5	&	3.5	&	3.7	\\
+	Sololá	&	5.4	&	5.4	&	5.6	\\
+	Totonicapán	&	5.8	&	5.6	&	6.4	\\
+	Quetzaltenango	&	6.2	&	6.4	&	5.7	\\
+	Suchitepéquez	&	6.0	&	5.2	&	8.0	\\
+	Retalhuleu	&	5.1	&	5.2	&	4.8	\\
+	San Marcos	&	3.8	&	3.5	&	4.9	\\
+	Huehuetenango	&	6.6	&	6.0	&	8.3	\\
+	Quiché	&	3.9	&	4.0	&	3.3	\\
+	Baja Verapaz	&	6.2	&	6.5	&	5.5	\\
+	Alta Verapaz	&	5.2	&	5.2	&	5.1	\\
+	Petén	&	5.5	&	5.8	&	4.6	\\
+	Izabal	&	4.6	&	4.5	&	4.6	\\
+	Zacapa	&	5.5	&	5.6	&	5.1	\\
+	Chiquimula	&	7.8	&	7.8	&	7.6	\\
+	Jalapa	&	3.9	&	3.8	&	4.1	\\
+	Jutiapa	&	4.6	&	4.4	&	5.1	\\
+		&&&\\[-0.4cm]
+		\hline		
+		&&&\\[-0.3cm]
+		\multicolumn{4}{l}{\footnotesize Fuente: Instituto Nacional de Estadística}
+	\end{tabular}\addtocounter{Cuadro}{1}
+\end{center}
+
+\newpage
+%gasto público
+	$\ $\\[-1cm]
+		\fontsize{7mm}{1em}\selectfont \setlength{\arrayrulewidth}{0.9pt}
+		\textbf{}\\
+		$\,$\\[-1cm]
+	\begin{tabular}{m{65mm}S[table-format=6]S[table-format=6]}
+		\multicolumn{3}{l}{$\ $}\\[0.15cm]
+		\multicolumn{3}{l}{\Bold\color{color1!80!black}{\normalsize Cuadro \theCuadro $\,-$ Gasto Público en educación}}\\[-0.05cm]
+		\multicolumn{3}{l}{\normalsize	\textbf{Por sector}}\\[-0.05cm]					
+		\multicolumn{3}{l}{\normalsize Años 2012 y 2013, en millones de quetzales de cada año}		\\[0.3cm]
+	\end{tabular}
+		$\,$\\[-2cm]
+\begin{center}\fontsize{4.5mm}{.9em}\selectfont \setlength{\arrayrulewidth}{0.9pt}
+	\textbf{}\\
+	
+	$\,$\\[-0.1cm]
+	\begin{tabular}{m{65mm}S[table-format=6]S[table-format=6]}
+			\hline
+		\rowcolor{color2!15!white} &&\\[-4mm]
+		\rowcolor{color2!15!white} \textbf{Sector}&\textbf{2012} 	& \textbf{2013} \\
+		\rowcolor{color2!15!white}	&&\\[-0.4cm]
+		\hline
+		\rowcolor{white} &&\\[-0.4cm]
+	\textbf{Total general}	&\textbf{	12,133 }	&\textbf{	12,896} 	\\
+		Centralizadas	&	10,147 	&	10,749 	\\
+		Descentralizadas	&	1,986 	&	2,148 	\\	
+		&&\\[-0.4cm]
+		\hline		
+		&&\\[-0.3cm]
+		\multicolumn{2}{l}{\footnotesize Fuente: Instituto Nacional de Estadística}
+	\end{tabular}\addtocounter{Cuadro}{1}
+\end{center}
+
+
+% % % %
+	$\ $\\[-2cm]
+		\fontsize{7mm}{1em}\selectfont \setlength{\arrayrulewidth}{0.9pt}
+		\textbf{}\\
+		$\,$\\[-0.1cm]
+	\begin{tabular}{m{85mm}S[table-format=6]S[table-format=6]}
+		\multicolumn{3}{l}{$\ $}\\[0.15cm]
+		\multicolumn{3}{l}{\Bold\color{color1!80!black}{\normalsize Cuadro \theCuadro $\,-$ Gasto Público en educación}}\\[-0.05cm]
+		\multicolumn{3}{l}{\normalsize	\textbf{Por entidad}}\\[-0.05cm]				
+		\multicolumn{3}{l}{\normalsize Años 2012 y 2013, en millones de quetzales de cada año}		\\[0.3cm]
+	\end{tabular}
+		$\,$\\[-1.5cm]
+\begin{center}\fontsize{4.5mm}{1em}\selectfont \setlength{\arrayrulewidth}{0.9pt}
+	\textbf{}\\
+	
+	$\,$\\[-0.1cm]
+	\begin{tabular}{m{85mm}S[table-format=6]S[table-format=6]}
+		\hline
+		\rowcolor{color2!15!white} &&\\[-4mm]
+		\rowcolor{color2!15!white} \textbf{Entidad}&\textbf{2012} 	& \textbf{2013} \\
+		\rowcolor{color2!15!white}	&&\\[-0.4cm]
+		\hline
+		\rowcolor{white} &&\\[-0.4cm]
+		\textbf{Total general}	&\textbf{	12,133 }	&\textbf{	12,896} 	\\
+		Ministerio de Educación	&	9,342 	&	10,003 	\\
+		Universidad de San Carlos	&	1,568 	&	1,627 	\\
+		Instituto Técnico de Capacitación y Productividad	&	230 	&	256 	\\
+		Obligaciones del Estado a cargo del Tesoro	&	279 	&	189 	\\
+		Comité Nacional de Alfabetización	&	129 	&	188 	\\
+		Ministerio de la Defensa Nacional	&	159 	&	182 	\\
+		Ministerio de Salud Pública y Asistencia Social	&	178 	&	154 	\\
+		Ministerio de Gobernación	&	60 	&	129 	\\
+		Escuela Nacional Central de Agricultura	&	33 	&	46 	\\
+		Resto de entidades	&	155	&	122	\\
+		&&\\[-0.4cm]
+		\hline		
+		&&\\[-0.3cm]
+		\multicolumn{2}{l}{\footnotesize Fuente: Instituto Nacional de Estadística}
+	\end{tabular}\addtocounter{Cuadro}{1}
+\end{center}
+
+\newpage
+	$\,$\\[-1cm]
+% % %
+		\fontsize{7mm}{1em}\selectfont \setlength{\arrayrulewidth}{0.9pt}
+		\textbf{}\\
+		$\,$\\[-1cm]
+	\begin{tabular}{m{65mm}S[table-format=6]S[table-format=6]}
+		\multicolumn{3}{l}{$\ $}\\[0.15cm]
+		\multicolumn{3}{l}{\Bold\color{color1!80!black}{\normalsize Cuadro \theCuadro $\,-$ Gasto Público en educación}}\\[-0.05cm]
+		\multicolumn{3}{l}{\normalsize	\textbf{Por grupo de gasto}}\\[-0.05cm]				
+		\multicolumn{3}{l}{\normalsize Años 2012 y 2013, en millones de quetzales de cada año}		\\[0.3cm]
+	\end{tabular}
+		$\,$\\[-2cm]
+\begin{center}\fontsize{4.5mm}{1em}\selectfont \setlength{\arrayrulewidth}{0.9pt}
+	\textbf{}\\
+	
+	$\,$\\[-0.1cm]
+	\begin{tabular}{m{65mm}S[table-format=6]S[table-format=6]}
+			\hline
+		\rowcolor{color2!15!white} &&\\[-4mm]
+		\rowcolor{color2!15!white} \textbf{Grupo de gasto}&\textbf{2012} 	& \textbf{2013} \\
+		\rowcolor{color2!15!white}	&&\\[-0.4cm]
+		\hline
+		\rowcolor{white} &&\\[-0.4cm]
+		\textbf{Total general}	&\textbf{	12,133 }	&\textbf{	12,896} 	\\
+		Servicios Personales	&	9,344 	&	10,272 	\\
+		Servicios No Personales	&	653 	&	597 	\\
+		Materiales y Suministros	&	859 	&	590 	\\
+		Propiedad, Planta, Equipo e Intangibles	&	207 	&	204 	\\
+		Transferencias Corrientes	&	777 	&	1,027 	\\
+		Transferencias de Capital	&	276 	&	189 	\\
+		Asignaciones Globales	&	16 	&	17 	\\
+		&&\\[-0.4cm]
+		\hline		
+		&&\\[-0.3cm]
+		\multicolumn{2}{l}{\footnotesize Fuente: Instituto Nacional de Estadística}
+	\end{tabular}\addtocounter{Cuadro}{1}
+\end{center}
+
+
+% % %
+$\,$\\[-1cm]
+		\fontsize{7mm}{1em}\selectfont \setlength{\arrayrulewidth}{0.9pt}
+		\textbf{}\\
+		$\,$\\[-1cm]
+\begin{tabular}{m{65mm}S[table-format=6]S[table-format=6]}
+	\multicolumn{3}{l}{$\ $}\\[0.15cm]
+	\multicolumn{3}{l}{\Bold\color{color1!80!black}{\normalsize Cuadro \theCuadro $\,-$ Gasto Público en educación}}\\[-0.05cm]
+	\multicolumn{3}{l}{\normalsize	\textbf{Por tipo  de gasto}}\\[-0.05cm]				
+	\multicolumn{3}{l}{\normalsize Años 2012 y 2013, en millones de quetzales de cada año}		\\[0.3cm]
+\end{tabular}
+	$\,$\\[-1cm]
+\begin{center}\fontsize{4.5mm}{1em}\selectfont \setlength{\arrayrulewidth}{0.9pt}
+	\textbf{}\\
+	
+	$\,$\\[-0.1cm]
+	\begin{tabular}{m{65mm}S[table-format=6]S[table-format=6]}
+			\hline
+		\rowcolor{color2!15!white} &&\\[-4mm]
+		\rowcolor{color2!15!white} \textbf{Tipo de gasto}&\textbf{2012} 	& \textbf{2013} \\
+		\rowcolor{color2!15!white}	&&\\[-0.4cm]
+		\hline
+		\rowcolor{white} &&\\[-0.4cm]
+		\textbf{Total general}	&\textbf{	12,133 }	&\textbf{	12,896} 	\\
+		Gastos Corrientes	&	11,649	&	12,499	\\
+		Gastos de Capital	&	484	&	398	\\
+		&&\\[-0.4cm]
+		\hline		
+		&&\\[-0.3cm]
+		\multicolumn{2}{l}{\footnotesize Fuente: Instituto Nacional de Estadística}
+	\end{tabular}\addtocounter{Cuadro}{1}
+\end{center}
+
+
+
+\newpage
+	$\,$\\[-1cm]
+% %
+		\fontsize{7mm}{1em}\selectfont \setlength{\arrayrulewidth}{0.9pt}
+		\textbf{}\\
+		$\,$\\[-1cm]
+			\begin{tabular}{m{65mm}S[table-format=6]S[table-format=6]}
+				\multicolumn{3}{l}{$\ $}\\[0.15cm]
+				\multicolumn{3}{l}{\Bold\color{color1!80!black}{\normalsize Cuadro \theCuadro $\,-$ Gasto Público en educación}}\\[-0.05cm]
+				\multicolumn{3}{l}{\normalsize	\textbf{Por función}}\\[-0.05cm]				
+				\multicolumn{3}{l}{\normalsize Años 2012 y 2013, en millones de quetzales de cada año}		\\[0.3cm]
+			\end{tabular}
+				$\,$\\[-1cm]
+\begin{center}\fontsize{4.5mm}{.9em}\selectfont \setlength{\arrayrulewidth}{0.9pt}
+	\textbf{}\\
+	
+	$\,$\\[-1cm]
+	\begin{tabular}{m{65mm}S[table-format=6]S[table-format=6]}
+			\hline
+		\rowcolor{color2!15!white} &&\\[-4mm]
+		\rowcolor{color2!15!white} \textbf{Función}&\textbf{2012} 	& \textbf{2013} \\
+		\rowcolor{color2!15!white}	&&\\[-0.4cm]
+		\hline
+		\rowcolor{white} &&\\[-0.4cm]
+		\textbf{Total general}	&\textbf{	12,133 }	&\textbf{	12,896} 	\\
+		Educación Preprimaria y Primaria	&	6,609 	&	6,894 	\\
+		Servicios Auxiliares de la Educación	&	1,273 	&	1,725 	\\
+		Educación Universitaria o Superior	&	1,721 	&	1,632 	\\
+		Educación Media	&	1,436 	&	1,504 	\\
+		Educación n.c.d	&	624 	&	662 	\\
+		Educación no Atribuible a Ningún Nivel Escolarizado	&	420 	&	445 	\\
+		Investigación y Desarrollo Relacionados con la Educación	&	23 	&	25 	\\
+		Educación Postmedia Básica y Diversificado no Universitaria o Superior	&	27 	&	9 	\\
+		&&\\[-0.4cm]
+		\hline		
+		&&\\[-0.3cm]
+		\multicolumn{2}{l}{\footnotesize Fuente: Instituto Nacional de Estadística}
+	\end{tabular}\addtocounter{Cuadro}{1}
+\end{center}
+
+
+	$\,$\\[-1.5cm]
+% %
+		\fontsize{6mm}{1em}\selectfont \setlength{\arrayrulewidth}{0.9pt}
+		\textbf{}\\
+		$\,$\\[-1cm]
+\begin{tabular}{m{65mm}S[table-format=6]S[table-format=6]}
+	\multicolumn{3}{l}{$\ $}\\[0.15cm]
+	\multicolumn{3}{l}{\Bold\color{color1!80!black}{\normalsize Cuadro \theCuadro $\,-$ Gasto Público en educación}}\\[-0.05cm]
+	\multicolumn{3}{l}{\normalsize	\textbf{Por fuente de financiamiento agregada}}\\[-0.05cm]				
+	\multicolumn{3}{l}{\normalsize Años 2012 y 2013, en millones de quetzales de cada año}		\\[0.3cm]
+\end{tabular}
+	$\,$\\[-2cm]
+\begin{center}\fontsize{4.5mm}{1em}\selectfont \setlength{\arrayrulewidth}{0.9pt}
+	\textbf{}\\
+	
+	$\,$\\[-0.1cm]
+	\begin{tabular}{m{65mm}S[table-format=6]S[table-format=6]}
+		\hline
+		\rowcolor{color2!15!white} &&\\[-4mm]
+		\rowcolor{color2!15!white} \textbf{Fuente de financiamiento}&\textbf{2012} 	& \textbf{2013} \\
+		\rowcolor{color2!15!white}	&&\\[-0.4cm]
+		\hline
+		\rowcolor{white} &&\\[-0.4cm]
+		\textbf{Total general}	&\textbf{	12,133 }	&\textbf{	12,896} 	\\
+		Recursos del Tesoro	&	7,625 	&	8,912 	\\
+		Recursos del Tesoro con Afectación Especifica	&	3,194 	&	3,342 	\\
+		Recursos Propios de las Instituciones	&	387 	&	378 	\\
+		Crédito Externo	&	877 	&	231 	\\
+		Donaciones Externas	&	50 	&	33 	\\
+		&&\\[-0.4cm]
+		\hline		
+		&&\\[-0.3cm]
+		\multicolumn{2}{l}{\footnotesize Fuente: Instituto Nacional de Estadística}
+	\end{tabular}\addtocounter{Cuadro}{1}
+\end{center}
+
+
+
+\newpage
+
+% %
+	$\,$\\[-2cm]
+
+		\fontsize{6mm}{1em}\selectfont \setlength{\arrayrulewidth}{0.9pt}
+		\textbf{}\\
+		$\,$\\[-0.1cm]
+		\begin{tabular}{lll}
+			\multicolumn{3}{l}{$\ $}\\[0.15cm]
+			\multicolumn{3}{l}{\Bold\color{color1!80!black}{\normalsize Cuadro \theCuadro $\,-$ Gasto Público en educación}}\\[-0.05cm]
+			\multicolumn{3}{l}{\normalsize	\textbf{Porcentaje respecto del PIB y del gasto público}}\\[-0.05cm]				
+			\multicolumn{3}{l}{\normalsize Años 2012 y 2013, en millones de quetzales de cada año}		\\[0.3cm]
+		\end{tabular}
+		$\,$\\[-1cm]
+
+\begin{center}\fontsize{4.5mm}{1em}\selectfont \setlength{\arrayrulewidth}{0.9pt}
+	\textbf{}\\
+	
+	$\,$\\[-0.1cm]
+\begin{tabular}{m{65mm}S[table-format=1.1]S[table-format=2.1]}
+			\hline
+		\rowcolor{color2!15!white} &&\\[-4mm]
+		\rowcolor{color2!15!white} \textbf{Sector}&\textbf{2012} 	& \textbf{2013} \\
+		\rowcolor{color2!15!white}	&&\\[-0.4cm]
+		\hline
+		\rowcolor{white} &&\\[-0.4cm]
+		Como porcentaje del PIB	&	3.1	&	21.0	\\
+		Como porcentaje del gasto público	&	3.0	&	21.3	\\
+		&&\\[-0.4cm]
+		\hline		
+		&&\\[-0.3cm]
+		\multicolumn{2}{l}{\footnotesize Fuente: Instituto Nacional de Estadística}
+	\end{tabular}\addtocounter{Cuadro}{1}
+\end{center}
+
+

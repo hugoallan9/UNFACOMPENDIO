@@ -1,0 +1,166 @@
+% Created by tikzDevice version 0.7.0 on 2015-08-28 15:01:49
+% !TEX encoding = UTF-8 Unicode
+\definecolor[named]{fillColor}{rgb}{1.00,1.00,1.00}
+\path[use as bounding box,fill=fillColor,fill opacity=0.00] (0,0) rectangle (289.08,198.74);
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (289.08,198.74);
+\definecolor[named]{drawColor}{rgb}{1.00,1.00,1.00}
+
+\path[draw=drawColor,line width= 0.6pt,line join=round,line cap=round] (  0.00,  0.00) rectangle (289.08,198.74);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,184.30) rectangle (135.40,198.74);
+
+\path[] (-12.58,184.30) rectangle (135.40,198.74);
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+
+\node[text=drawColor,anchor=base,inner sep=0pt, outer sep=0pt, scale=  1.00] at ( 61.41,187.61) {2012};
+\end{scope}
+\begin{scope}
+\path[clip] (141.09,184.30) rectangle (289.08,198.74);
+
+\path[] (141.09,184.30) rectangle (289.08,198.74);
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+
+\node[text=drawColor,anchor=base,inner sep=0pt, outer sep=0pt, scale=  1.00] at (215.09,187.61) {2013};
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (289.08,198.74);
+
+\path[] (-12.58, 14.93) rectangle (135.40,184.30);
+
+\path[] (  0.00, 40.70) --
+	(135.40, 40.70);
+
+\path[] (  0.00, 76.84) --
+	(135.40, 76.84);
+
+\path[] (  0.00,112.99) --
+	(135.40,112.99);
+
+\path[] (  0.00,149.13) --
+	(135.40,149.13);
+
+\path[] (  0.00, 22.63) --
+	(135.40, 22.63);
+
+\path[] (  0.00, 58.77) --
+	(135.40, 58.77);
+
+\path[] (  0.00, 94.92) --
+	(135.40, 94.92);
+
+\path[] (  0.00,131.06) --
+	(135.40,131.06);
+
+\path[] (  0.00,167.20) --
+	(135.40,167.20);
+
+\path[] ( 27.78, 14.93) --
+	( 27.78,184.30);
+
+\path[] ( 95.04, 14.93) --
+	( 95.04,184.30);
+\definecolor[named]{fillColor}{rgb}{0.20,0.20,0.20}
+
+\path[fill=fillColor] ( 10.96, 22.63) rectangle ( 44.59, 45.04);
+
+\path[fill=fillColor] ( 78.23, 22.63) rectangle (111.86, 44.32);
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+\definecolor[named]{fillColor}{rgb}{0.00,0.00,0.00}
+
+\path[draw=drawColor,line width= 0.1pt,line join=round,fill=fillColor] (  0.00, 22.63) -- (135.40, 22.63);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (289.08,198.74);
+
+\path[] (141.09, 14.93) rectangle (289.08,184.30);
+
+\path[] (141.09, 40.70) --
+	(289.08, 40.70);
+
+\path[] (141.09, 76.84) --
+	(289.08, 76.84);
+
+\path[] (141.09,112.99) --
+	(289.08,112.99);
+
+\path[] (141.09,149.13) --
+	(289.08,149.13);
+
+\path[] (141.09, 22.63) --
+	(289.08, 22.63);
+
+\path[] (141.09, 58.77) --
+	(289.08, 58.77);
+
+\path[] (141.09, 94.92) --
+	(289.08, 94.92);
+
+\path[] (141.09,131.06) --
+	(289.08,131.06);
+
+\path[] (141.09,167.20) --
+	(289.08,167.20);
+
+\path[] (181.45, 14.93) --
+	(181.45,184.30);
+
+\path[] (248.72, 14.93) --
+	(248.72,184.30);
+\definecolor[named]{fillColor}{rgb}{0.20,0.20,0.20}
+
+\path[fill=fillColor] (164.64, 22.63) rectangle (198.27,174.43);
+
+\path[fill=fillColor] (231.90, 22.63) rectangle (265.54,176.60);
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+\definecolor[named]{fillColor}{rgb}{0.00,0.00,0.00}
+
+\path[draw=drawColor,line width= 0.1pt,line join=round,fill=fillColor] (141.09, 22.63) -- (289.08, 22.63);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (289.08,198.74);
+
+\path[] (  0.00, 14.93) --
+	(135.40, 14.93);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (289.08,198.74);
+
+\path[] ( 27.78, 10.66) --
+	( 27.78, 14.93);
+
+\path[] ( 95.04, 10.66) --
+	( 95.04, 14.93);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (289.08,198.74);
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+
+\node[text=drawColor,anchor=base,inner sep=0pt, outer sep=0pt, scale=  1.00] at ( 27.78, -0.00) {Como porcentaje del PIB};
+
+\node[text=drawColor,anchor=base,inner sep=0pt, outer sep=0pt, scale=  1.00] at ( 95.04, -0.00) {Como porcentaje del gasto p\'ublico};
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (289.08,198.74);
+
+\path[] (141.09, 14.93) --
+	(289.08, 14.93);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (289.08,198.74);
+
+\path[] (181.45, 10.66) --
+	(181.45, 14.93);
+
+\path[] (248.72, 10.66) --
+	(248.72, 14.93);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (289.08,198.74);
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+
+\node[text=drawColor,anchor=base,inner sep=0pt, outer sep=0pt, scale=  1.00] at (181.45, -0.00) {Como porcentaje del PIB};
+
+\node[text=drawColor,anchor=base,inner sep=0pt, outer sep=0pt, scale=  1.00] at (248.72, -0.00) {Como porcentaje del gasto p\'ublico};
+\end{scope}

@@ -1,0 +1,4 @@
+\beamer@endinputifotherversion {3.26pt}
+\select@language {spanish}
+\beamer@sectionintoc {1}{\fontsize {8pt}{2em}\selectfont Estadísticas Vitales}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{\fontsize {8pt}{2em}\selectfont Nacimientos}{3}{0}{1}

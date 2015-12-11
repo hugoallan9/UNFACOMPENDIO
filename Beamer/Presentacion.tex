@@ -1,0 +1,275 @@
+\documentclass[xcolor=dvipsnames, 10pt]{beamer}
+% versión 0.8
+
+
+\setbeamertemplate{footline}{}
+\useinnertheme{rectangles}
+\useoutertheme{infolines}
+
+% % % % % % Reemplazar
+% \begin{itemize} --->  \begin{itemize}\correct
+% \hojados --->  " "
+% \INEchapter ---  \INEchaptercarta
+
+%Beamer
+\usepackage{default}
+\usecolortheme[named=blue]{structure} 
+\setbeamercolor*{palette tertiary}{fg= white, bg=blue!60!white}
+\setbeamercolor*{palette secondary}{bg=blue!10!white}
+\setbeamercolor*{palette primary}{bg=blue!20!white}
+\setbeamercolor{frametitle}{fg=black, bg= white}
+\beamertemplatenavigationsymbolsempty
+
+
+\definecolor{color1}{rgb}{0.4,0.4,1}
+\definecolor{color2}{rgb}{0,0,0.8}
+
+\newcommand{\correct}{\let\olditem\item
+\renewcommand{\item}{\olditem[\color{color1}\fontsize{12pt}{1.4ex}\selectfont$\bullet$]}}
+
+
+
+%Paquetes estándar
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{pdfpages}
+\usepackage{setspace} 
+\usepackage{xltxtra}
+\usepackage{enumitem}
+\usepackage{fixltx2e}
+
+%Tikz
+\usepackage{tikz}
+\usetikzlibrary{calc}
+\usetikzlibrary{positioning}
+
+
+%If Then Else, definiciones libres de comandos
+\usepackage{xifthen}
+\usepackage{xargs} %varios argumentos opcionales
+
+%Para compilar en XeLaTeX con tildes
+\usepackage{polyglossia}
+\setmainlanguage{spanish}
+
+%Tipo de letra
+\usepackage{fontspec}
+\setsansfont[
+BoldFont = OpenSans-CondBold.ttf ,
+ItalicFont = OpenSans-CondLightItalic.ttf ,
+BoldItalicFont = OpenSans-CondLightItalic.ttf ]{OpenSans-CondLight.ttf}
+\newfontfamily\Bold{Open Sans Condensed Bold}
+
+\newfontfamily\Sans{Open Sans}
+\newfontfamily\SansBold{Open Sans Bold}
+\newfontfamily\Italic{Open Sans Condensed Light Italic}
+\newfontfamily\Logos{Latin Modern Roman}
+
+
+
+%Títulos y subtítulos centrados
+\makeatletter 
+\long\def\beamer@@frametitle[#1]#2{% 
+  \beamer@ifempty{#2}{}{% 
+    \gdef\insertframetitle{\centering{#2\ifnum\beamer@autobreakcount>0\relax{}\space\usebeamertemplate*{frametitle continuation}\fi}}% 
+  \gdef\beamer@frametitle{#2}% 
+  \gdef\beamer@shortframetitle{#1}% 
+}% 
+} 
+\makeatother 
+
+\newcommand{\fuente}{Estadísticas INE}
+\setbeamertemplate{footline}{
+ \leavevmode%
+ \raisebox{0.3cm}{\hbox{ $\!\!$\begin{beamercolorbox}[wd=0.5\paperwidth,ht=0.0ex,dp=0ex,left]{white}%
+       \usebeamerfont{section in head/foot}  \fontsize{7pt}{1em}\selectfont $\quad$ {\raisebox{-0.6mm}{Fuente: \fuente}}
+   \end{beamercolorbox}%
+   \begin{beamercolorbox}[wd=0.5\paperwidth,ht=0.0ex,dp=0ex,right]{white}%
+          \usebeamerfont{section in head/foot}  \fontsize{8pt}{1em}\selectfont \raisebox{-0.6mm}{\includegraphics[width=2.1em]{logo.pdf}} $\ \ \ \ $ 
+      \end{beamercolorbox}%
+ }}}
+  
+\setbeamertemplate{headline}{
+ \leavevmode%
+  \raisebox{0.3cm}{\hbox{ $\!\!$\begin{beamercolorbox}[wd=0.51\paperwidth,ht=4.15ex,dp=0.9ex,left]{section in head/foot}%
+       $\quad\vphantom{q}$ {\color{white}\raisebox{0.4mm}{\insertsection}}
+  \end{beamercolorbox}%
+  \begin{beamercolorbox}[wd=0.51\paperwidth,ht=4.15ex,dp=0.9ex,right]{subsection in head/foot}%
+         {\color{color1}\raisebox{0.4mm}{\fontsize{6pt}{1em}\selectfont\insertsubsection}} $\vphantom{q}\qquad$
+  \end{beamercolorbox}%
+  }}}
+
+
+
+
+
+\newcommand{\INEchapter}[4]{%
+{%
+\setbeamertemplate{headline}{}
+\setbeamertemplate{footline}{}
+\usebackgroundtemplate{%             declare it
+			\tikz[overlay,remember picture] \node[opacity=0.1, at=(current page.center)] {};
+}		
+\begin{frame}
+
+\begin{center}
+$\ $\\[-1.0cm]
+\fontsize{18pt}{1.8ex}\selectfont{\Bold \color{color2} #1}
+\end{center}
+$\ $\\[-1.0cm]
+\fontsize{12pt}{2.5ex}\selectfont
+\begin{center}
+	\begin{tabular}{p{10cm}}
+	\\[-0.9cm]
+	#4	\\ 
+	\end{tabular} 
+\end{center}
+\end{frame}
+}
+\subsection{\fontsize{8pt}{2em}\selectfont #1}
+}
+
+
+
+\newcommand{\INEchaptercarta}[2]{%
+{%
+\setbeamertemplate{headline}{}
+\setbeamertemplate{footline}{}
+\usebackgroundtemplate{%             declare it
+			\tikz[overlay,remember picture] \node[opacity=0.1, at=(current page.center)] {
+				\includegraphics[height=\paperheight,width=\paperwidth]{arte.jpg}};
+}
+		
+		\begin{frame}
+			\begin{center}
+				$\ $\\[-1.0cm]
+				\fontsize{18pt}{1.4ex}\selectfont{\Bold \color{color2} #1}
+			\end{center}
+			$\ $\\[-1.0cm]
+			\fontsize{12pt}{1.4ex}\selectfont
+			\begin{center}
+				\begin{tabular}{p{10cm}}
+					\\[-0.9cm]
+					#2	\\ 
+				\end{tabular} 
+			\end{center}
+		\end{frame}
+	}
+	\subsection{\fontsize{8pt}{2em}\selectfont #1}
+
+\usebackgroundtemplate{ }    %% undeclare it	
+}
+
+
+
+
+\newcommand{\notita}[1]{}
+
+\newcommand{\columna}[9][]{%
+\renewcommand{\fuente}{#8}
+ \begin{frame}
+
+\begin{center}
+$\ $\\[-1.0cm]
+\fontsize{14pt}{1.4ex}\selectfont{\Bold #5}\\[-0.5cm]  \fontsize{10pt}{2em}\selectfont$-$ #6 $-$
+\end{center}
+
+\begin{center}
+$\ $\\[-0.0cm]
+#7
+\end{center}
+$\ $\\[-1.0cm]
+
+  \end{frame}
+
+}
+
+
+
+
+\newcommand{\cajita}[7][]{%
+\renewcommand{\fuente}{#7}
+\begin{frame}
+	
+	\begin{center}
+		$\ $\\[-1.0cm]
+		\fontsize{14pt}{1.4ex}\selectfont{\Bold #4}\\[-0.5cm]  \fontsize{10pt}{2em}\selectfont$-$ #5 $-$
+	\end{center}
+	
+	\begin{center}
+		$\ $\\[-0.4cm]
+		#6
+	\end{center}
+	$\ $\\[-1.0cm]
+	
+\end{frame}
+
+}
+
+\newcommand{\textollamada}[2][]{}
+
+
+
+
+\newcommand{\primeradiapositiva}[4]{
+\title[\color{white}\color{blue!80!black}#1]{\textbf{\color{blue!80!black}\fontsize{24pt}{1em}\selectfont#1}}
+\subtitle{\raisebox{-1.5mm}{\color{blue!60!white}\textbf{\Large#2}}}
+\author[\color{blue!60!black}#3]{}
+\institute{\textbf{\Large#3} \\[2mm]  {\large #4}}
+\date{\fontsize{10pt}{1em}\selectfont}
+
+{
+\setbeamertemplate{headline}{}
+\setbeamertemplate{footline}{}
+
+\usebackgroundtemplate{%             declare it
+	\tikz[overlay,remember picture] \node[opacity=0.8, at=(current page.center)] {
+		\includegraphics[height=\paperheight,width=\paperwidth]{back.jpg}};
+}
+
+%\begin{frame}
+%  \titlepage
+%\end{frame}
+}
+\section{\fontsize{8pt}{2em}\selectfont #1}
+
+}
+
+
+\newcommand{\muchasgracias}{
+\setbeamertemplate{headline}{}
+\setbeamertemplate{footline}{}
+
+\usebackgroundtemplate{%             declare it
+	\tikz[overlay,remember picture] \node[opacity=0.8, at=(current page.center)] {
+		\includegraphics[height=\paperheight,width=\paperwidth]{back.jpg}};
+}
+
+		\begin{frame}
+			\begin{center}  
+				$\ $\\[-0.0cm]
+				\fontsize{24pt}{1.4ex}\selectfont{\Bold \color{black} Muchas gracias}
+			\end{center}\transduration{1.2}
+		\end{frame}
+		
+		\begin{frame} \transfade[duration=1.4]
+			\begin{center}  
+				$\ $\\[-1.0cm]
+				\fontsize{24pt}{1.4ex}\selectfont{\Bold \color{black}}
+			\end{center}\transduration{0.0}
+		\end{frame}
+
+		\begin{frame} \transfade[duration=1.4]
+			\begin{center}
+				$\ $\\[-0.0cm]
+				\fontsize{18pt}{1.4ex}\selectfont{\Bold  Visite:\\[3mm] \color{color2} \texttt{www.ine.gob.gt}}
+			\end{center}
+		\end{frame}
+
+}
+
+
+
+
