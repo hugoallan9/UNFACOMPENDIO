@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Arch Linux) (preloaded format=xelatex 2015.11.19)  28 FEB 2016 23:23
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Arch Linux) (preloaded format=xelatex 2015.11.19)  29 FEB 2016 05:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3164,8 +3164,8 @@ Overfull \hbox (1.37164pt too wide) in paragraph at lines 9--9
 Package hyperref Info: Anchor `section*.33' on input line 12.
 Package hyperref Info: bookmark on input line 12:
 (hyperref)             thecounter {4.3}
-(hyperref)             text {\numberline {\thesection } Trabajo infantil y anpe
-a por dominio de estudio}
+(hyperref)             text {\numberline {\thesection } Trabajo infantil y pea 
+por dominio de estudio}
 (hyperref)             reference {section*.33}
 (hyperref)             toclevel {1}
 (hyperref)             type {toc}.
@@ -3269,10 +3269,10 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-Package hyperref Info: Anchor `page.30' on input line 21.
+Package hyperref Info: Anchor `page.30' on input line 23.
 [30]
-Package hyperref Info: Anchor `section*.36' on input line 21.
-Package hyperref Info: bookmark on input line 21:
+Package hyperref Info: Anchor `section*.36' on input line 23.
+Package hyperref Info: bookmark on input line 23:
 (hyperref)             thecounter {4.6}
 (hyperref)             text {\numberline {\thesection } Trabajo infantil y esco
 laridad del jefe de hogar}
@@ -3280,22 +3280,22 @@ laridad del jefe de hogar}
 (hyperref)             toclevel {1}
 (hyperref)             type {toc}.
 
-Overfull \hbox (2.10617pt too wide) in paragraph at lines 21--21
+Overfull \hbox (2.10617pt too wide) in paragraph at lines 23--23
 [][] 
  []
 
 
-Overfull \hbox (4.51688pt too wide) in paragraph at lines 21--21
+Overfull \hbox (4.51688pt too wide) in paragraph at lines 23--23
 []|[]| 
  []
 
 (./graficas/TrabajoInfantil/1_06.tex)
-Overfull \hbox (11.72424pt too wide) in paragraph at lines 21--21
+Overfull \hbox (11.72424pt too wide) in paragraph at lines 23--23
 [][] 
  []
 
 
-Overfull \hbox (1.37164pt too wide) in paragraph at lines 21--21
+Overfull \hbox (1.37164pt too wide) in paragraph at lines 23--23
 []  
  []
 
@@ -4414,7 +4414,7 @@ LaTeX Font Warning: Size substitutions with differences
 Here is how much of TeX's memory you used:
  41361 strings out of 493668
  833934 string characters out of 6150755
- 1040797 words of memory out of 5000000
+ 1040796 words of memory out of 5000000
  43913 multiletter control sequences out of 15000+600000
  17708 words of font info for 152 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
