@@ -207,7 +207,7 @@
 \addvspace {0.2\baselineskip }{\color {color2}\hrule height 0.9pt} \vskip 0.6\baselineskip \relax \color {black}
 \addvspace {-0.1\baselineskip }\color {black}
 \addvspace {0.6\baselineskip }\color {color1}
-\contentsline {chapter}{\hbox to\@tempdima {9\hfil }Nacimientos: características escolares de las madres}{79}{section*.98}
+\contentsline {chapter}{\hbox to\@tempdima {9\hfil }Nacimientos: características escolares de los padres}{79}{section*.98}
 \color {black}\vskip 0.2\baselineskip \relax 
 \contentsline {section}{\hbox to\@tempdima {9.1\hfil } Nacimientos}{81}{section*.99}
 \thispagestyle {empty}
@@ -219,178 +219,209 @@
 \thispagestyle {empty}
 \contentsline {section}{\hbox to\@tempdima {9.5\hfil } Madres sin escolaridad en los departamentos}{83}{section*.103}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {9.6\hfil } Promedio de hijos}{84}{section*.104}
+\contentsline {section}{\hbox to\@tempdima {9.6\hfil } Edad de las madres}{84}{section*.104}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {9.7\hfil } Promedio de hijos de madres sin escolaridad}{84}{section*.105}
+\contentsline {section}{\hbox to\@tempdima {9.7\hfil } Madres sin escolaridad por edad}{84}{section*.105}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {9.8\hfil } Promedio de hijos de madres sin escolaridad en los departamentos}{85}{section*.106}
+\contentsline {section}{\hbox to\@tempdima {9.8\hfil } Promedio de hijos}{85}{section*.106}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {9.9\hfil } Madres que recibieron atención médica}{86}{section*.107}
+\contentsline {section}{\hbox to\@tempdima {9.9\hfil } Promedio de hijos de madres sin escolaridad}{85}{section*.107}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {9.10\hfil } Madres sin escolaridad que recibieron atención médica}{86}{section*.108}
+\contentsline {section}{\hbox to\@tempdima {9.10\hfil } Promedio de hijos de madres sin escolaridad en los departamentos}{86}{section*.108}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {9.11\hfil } Madres sin escolaridad que recibieron atención médica\newline en los departamentos}{87}{section*.109}
+\contentsline {section}{\hbox to\@tempdima {9.11\hfil } Escolaridad de las madres y peso bajo en el recién nacido}{87}{section*.109}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {9.12\hfil } Nacimientos ocurridos en centro médico, según escolaridad la madre}{88}{section*.110}
+\contentsline {section}{\hbox to\@tempdima {9.12\hfil } Madres sin escolaridad estado civil}{87}{section*.110}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {9.13\hfil } Nacimientos ocurridos en centro médico, madres sin escolaridad}{88}{section*.111}
+\contentsline {section}{\hbox to\@tempdima {9.13\hfil } Madres que recibieron atención médica}{88}{section*.111}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {9.14\hfil } Madres sin escolaridad que recibieron atención médica\newline en los departamentos}{89}{section*.112}
+\contentsline {section}{\hbox to\@tempdima {9.14\hfil } Madres sin escolaridad que recibieron atención médica}{88}{section*.112}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {9.15\hfil } Madres sin escolaridad que recibieron atención médica\newline en los departamentos}{89}{section*.113}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {9.16\hfil } Nacimientos ocurridos en centro médico, según escolaridad la madre}{90}{section*.114}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {9.17\hfil } Nacimientos ocurridos en centro médico, madres sin escolaridad}{90}{section*.115}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {9.18\hfil } Madres sin escolaridad que recibieron atención médica\newline en los departamentos}{91}{section*.116}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {9.19\hfil } Escolaridad del padre}{92}{section*.117}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {9.20\hfil } Padres sin escolaridad según estado civil}{92}{section*.118}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {9.21\hfil } Padres sin escolaridad según edad}{93}{section*.119}
 \thispagestyle {empty}
 \addvspace {0.6\baselineskip }\color {color1}
-\contentsline {chapter}{\hbox to\@tempdima {10\hfil }Caracterización estadística educativa de las personas que contajeron matrimonio}{91}{section*.113}
+\contentsline {chapter}{\hbox to\@tempdima {10\hfil }Caracterización estadística educativa de los matrimonios}{95}{section*.120}
 \color {black}\vskip 0.2\baselineskip \relax 
-\contentsline {section}{\hbox to\@tempdima {10.1\hfil } Matrimonios}{93}{section*.114}
+\contentsline {section}{\hbox to\@tempdima {10.1\hfil } Matrimonios}{97}{section*.121}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {10.2\hfil } Cónyuges sin escolaridad}{93}{section*.115}
+\contentsline {section}{\hbox to\@tempdima {10.2\hfil } Cónyuges sin escolaridad}{97}{section*.122}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {10.3\hfil } Cónyuges universitarios}{94}{section*.116}
+\contentsline {section}{\hbox to\@tempdima {10.3\hfil } Cónyuges universitarios}{98}{section*.123}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {10.4\hfil } Mujeres sin escolaridad segùn nivel escolar del hombre}{94}{section*.117}
+\contentsline {section}{\hbox to\@tempdima {10.4\hfil } Mujeres sin escolaridad según nivel escolar del hombre}{98}{section*.124}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {10.5\hfil } Mujeres universitarias segùn nivel escolar del hombre}{95}{section*.118}
+\contentsline {section}{\hbox to\@tempdima {10.5\hfil } Mujeres universitarias según nivel escolar del hombre}{99}{section*.125}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {10.6\hfil } Edad promedio según nivel de escolaridad }{95}{section*.119}
+\contentsline {section}{\hbox to\@tempdima {10.6\hfil } Edad según nivel de escolaridad}{99}{section*.126}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {10.7\hfil } Etnicidad según nivel de escolaridad}{96}{section*.120}
+\contentsline {section}{\hbox to\@tempdima {10.7\hfil } Etnicidad según nivel de escolaridad}{100}{section*.127}
+\thispagestyle {empty}
+\addvspace {0.6\baselineskip }\color {color1}
+\contentsline {chapter}{\hbox to\@tempdima {11\hfil }Caracterización educativa de los faltantes}{101}{section*.128}
+\color {black}\vskip 0.2\baselineskip \relax 
+\contentsline {section}{\hbox to\@tempdima {11.1\hfil } Faltas judicales}{103}{section*.129}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {11.2\hfil } Faltantes según escolaridad}{103}{section*.130}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {11.3\hfil } Faltantes según escolaridad y sexo}{104}{section*.131}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {11.4\hfil } Faltantes con educación primaria y tipo de falta}{104}{section*.132}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {11.5\hfil } Faltantes con educación primaria y edad}{105}{section*.133}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {11.6\hfil } Faltantes según escolaridad y etnicidad}{105}{section*.134}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {11.7\hfil } Faltantes según escolaridad y área de residencia}{106}{section*.135}
 \thispagestyle {empty}
 \addvspace {3.1\baselineskip }\color {color2!60!black}
 \textbf {\Cinzel \relax \fontsize {12}{14}\selectfont PARTE {III} }\\[1.0mm] {\Cinzel \relax \fontsize {12}{14}\selectfont Educación y empleo }\\[-2.5mm] \par 
 \addvspace {0.2\baselineskip }{\color {color2}\hrule height 0.9pt} \vskip 0.6\baselineskip \relax \color {black}
 \addvspace {-0.1\baselineskip }\color {black}
 \addvspace {0.6\baselineskip }\color {color1}
-\contentsline {chapter}{\hbox to\@tempdima {11\hfil }Alfabetismo de la población en edad de trabajar}{99}{section*.122}
+\contentsline {chapter}{\hbox to\@tempdima {12\hfil }Alfabetismo de la población en edad de trabajar}{109}{section*.137}
 \color {black}\vskip 0.2\baselineskip \relax 
-\contentsline {section}{\hbox to\@tempdima {11.1\hfil } Alfabetismo}{101}{section*.123}
+\contentsline {section}{\hbox to\@tempdima {12.1\hfil } Alfabetismo}{111}{section*.138}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {11.2\hfil } Alfabetismo según sexo}{101}{section*.124}
+\contentsline {section}{\hbox to\@tempdima {12.2\hfil } Alfabetismo según sexo}{111}{section*.139}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {11.3\hfil } Alfabetismo por edad}{102}{section*.125}
+\contentsline {section}{\hbox to\@tempdima {12.3\hfil } Alfabetismo por edad}{112}{section*.140}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {11.4\hfil } Alfabetismo por etnia}{102}{section*.126}
+\contentsline {section}{\hbox to\@tempdima {12.4\hfil } Alfabetismo por etnia}{112}{section*.141}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {11.5\hfil } Alfabetismo según etnia y sexo}{103}{section*.127}
+\contentsline {section}{\hbox to\@tempdima {12.5\hfil } Alfabetismo según etnia y sexo}{113}{section*.142}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {11.6\hfil } Alfabetismo por área de residencia}{103}{section*.128}
+\contentsline {section}{\hbox to\@tempdima {12.6\hfil } Alfabetismo por área de residencia}{113}{section*.143}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {11.7\hfil } Alfabetismo por área y sexo}{104}{section*.129}
+\contentsline {section}{\hbox to\@tempdima {12.7\hfil } Alfabetismo por área y sexo}{114}{section*.144}
 \thispagestyle {empty}
 \addvspace {0.6\baselineskip }\color {color1}
-\contentsline {chapter}{\hbox to\@tempdima {12\hfil }Caracterización escolar de la población económicamente activa}{105}{section*.130}
+\contentsline {chapter}{\hbox to\@tempdima {13\hfil }Caracterización escolar de la población económicamente activa}{115}{section*.145}
 \color {black}\vskip 0.2\baselineskip \relax 
-\contentsline {section}{\hbox to\@tempdima {12.1\hfil } Participación PEA}{107}{section*.131}
+\contentsline {section}{\hbox to\@tempdima {13.1\hfil } Participación PEA}{117}{section*.146}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {12.2\hfil } PEA que sabe leer y escribir}{107}{section*.132}
+\contentsline {section}{\hbox to\@tempdima {13.2\hfil } PEA que sabe leer y escribir}{117}{section*.147}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {12.3\hfil } PEA según nivel de escolaridad}{108}{section*.133}
+\contentsline {section}{\hbox to\@tempdima {13.3\hfil } PEA según nivel de escolaridad}{118}{section*.148}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {12.4\hfil } PEA según escolaridad y sexo}{108}{section*.134}
+\contentsline {section}{\hbox to\@tempdima {13.4\hfil } PEA según escolaridad y sexo}{118}{section*.149}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {12.5\hfil } PEA según escolaridad y etnia}{109}{section*.135}
+\contentsline {section}{\hbox to\@tempdima {13.5\hfil } PEA según escolaridad y etnia}{119}{section*.150}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {12.6\hfil } PEA que asistió a un plantel educativo}{109}{section*.136}
+\contentsline {section}{\hbox to\@tempdima {13.6\hfil } PEA que asistió a un plantel educativo}{119}{section*.151}
 \thispagestyle {empty}
 \addvspace {0.6\baselineskip }\color {color1}
-\contentsline {chapter}{\hbox to\@tempdima {13\hfil }Caracterización escolar de los ocupados y desocupados}{111}{section*.137}
+\contentsline {chapter}{\hbox to\@tempdima {14\hfil }Caracterización escolar de los ocupados y desocupados}{121}{section*.152}
 \color {black}\vskip 0.2\baselineskip \relax 
-\contentsline {section}{\hbox to\@tempdima {13.1\hfil } Ocupados: educación primaria}{113}{section*.138}
+\contentsline {section}{\hbox to\@tempdima {14.1\hfil } Ocupados: educación primaria}{123}{section*.153}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {13.2\hfil } Ocupados: educación primaria y la rama de actividad}{113}{section*.139}
+\contentsline {section}{\hbox to\@tempdima {14.2\hfil } Ocupados: educación primaria y la rama de actividad}{123}{section*.154}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {13.3\hfil } Ocupados: educación primaria y la ocupación}{114}{section*.140}
+\contentsline {section}{\hbox to\@tempdima {14.3\hfil } Ocupados: educación primaria y la ocupación}{124}{section*.155}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {13.4\hfil } Ocupados: IGSS y escolaridad}{114}{section*.141}
+\contentsline {section}{\hbox to\@tempdima {14.4\hfil } Ocupados: IGSS y escolaridad}{124}{section*.156}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {13.5\hfil } Ocupados: sector informal y escolaridad}{115}{section*.142}
+\contentsline {section}{\hbox to\@tempdima {14.5\hfil } Ocupados: sector informal y escolaridad}{125}{section*.157}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {13.6\hfil } Asalariados: contratos y escolaridad}{115}{section*.143}
+\contentsline {section}{\hbox to\@tempdima {14.6\hfil } Asalariados: contratos y escolaridad}{125}{section*.158}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {13.7\hfil } Asalariados: bono 14 y escolaridad}{116}{section*.144}
+\contentsline {section}{\hbox to\@tempdima {14.7\hfil } Asalariados: bono 14 y escolaridad}{126}{section*.159}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {13.8\hfil } Asalariados: aguinaldo y escolaridad}{116}{section*.145}
+\contentsline {section}{\hbox to\@tempdima {14.8\hfil } Asalariados: aguinaldo y escolaridad}{126}{section*.160}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {13.9\hfil } Escolaridad e ingresos}{117}{section*.146}
+\contentsline {section}{\hbox to\@tempdima {14.9\hfil } Escolaridad e ingresos}{127}{section*.161}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {13.10\hfil } Escolaridad e ingresos, según sexo}{117}{section*.147}
+\contentsline {section}{\hbox to\@tempdima {14.10\hfil } Escolaridad e ingresos, según sexo}{127}{section*.162}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {13.11\hfil } Desocupados y escolaridad}{118}{section*.148}
+\contentsline {section}{\hbox to\@tempdima {14.11\hfil } Desocupados y escolaridad}{128}{section*.163}
 \thispagestyle {empty}
 \addvspace {0.6\baselineskip }\color {color1}
-\contentsline {chapter}{\hbox to\@tempdima {14\hfil }Niñez que labora y su escolaridad}{119}{section*.149}
+\contentsline {chapter}{\hbox to\@tempdima {15\hfil }Niñez que labora y su escolaridad}{129}{section*.164}
 \color {black}\vskip 0.2\baselineskip \relax 
-\contentsline {section}{\hbox to\@tempdima {14.1\hfil } Tasa de trabajo infantil}{121}{section*.150}
+\contentsline {section}{\hbox to\@tempdima {15.1\hfil } Tasa de trabajo infantil}{131}{section*.165}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {14.2\hfil } Tasa de trabajo infantil por sexo}{121}{section*.151}
+\contentsline {section}{\hbox to\@tempdima {15.2\hfil } Tasa de trabajo infantil por sexo}{131}{section*.166}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {14.3\hfil } Trabajo infantil y pea por dominio de estudio}{122}{section*.152}
+\contentsline {section}{\hbox to\@tempdima {15.3\hfil } Trabajo infantil y pea por dominio de estudio}{132}{section*.167}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {14.4\hfil } Trabajo infantil y escolaridad}{122}{section*.153}
+\contentsline {section}{\hbox to\@tempdima {15.4\hfil } Trabajo infantil y escolaridad}{132}{section*.168}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {14.5\hfil } Trabajo infantil, escolaridad y sexo}{123}{section*.154}
+\contentsline {section}{\hbox to\@tempdima {15.5\hfil } Trabajo infantil, escolaridad y sexo}{133}{section*.169}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {14.6\hfil } Trabajo infantil y escolaridad del jefe de hogar}{123}{section*.155}
+\contentsline {section}{\hbox to\@tempdima {15.6\hfil } Trabajo infantil y escolaridad del jefe de hogar}{133}{section*.170}
 \thispagestyle {empty}
 \addvspace {3.1\baselineskip }\color {color2!60!black}
 \textbf {\Cinzel \relax \fontsize {12}{14}\selectfont PARTE {IV} }\\[1.0mm] {\Cinzel \relax \fontsize {12}{14}\selectfont Educación y fecundidad }\\[-2.5mm] \par 
 \addvspace {0.2\baselineskip }{\color {color2}\hrule height 0.9pt} \vskip 0.6\baselineskip \relax \color {black}
 \addvspace {-0.1\baselineskip }\color {black}
 \addvspace {0.6\baselineskip }\color {color1}
-\contentsline {chapter}{\hbox to\@tempdima {15\hfil }Fecundidad y planificación familiar}{127}{section*.157}
+\contentsline {chapter}{\hbox to\@tempdima {16\hfil }Fecundidad y planificación familiar}{137}{section*.172}
 \color {black}\vskip 0.2\baselineskip \relax 
-\contentsline {section}{\hbox to\@tempdima {15.1\hfil } TGF}{129}{section*.158}
+\contentsline {section}{\hbox to\@tempdima {16.1\hfil } TGF}{139}{section*.173}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {15.2\hfil } TGF según escolaridad}{129}{section*.159}
+\contentsline {section}{\hbox to\@tempdima {16.2\hfil } TGF según escolaridad}{139}{section*.174}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {15.3\hfil } TGF mujeres sin educación}{130}{section*.160}
+\contentsline {section}{\hbox to\@tempdima {16.3\hfil } TGF mujeres sin educación}{140}{section*.175}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {15.4\hfil } Primera relación sexual}{130}{section*.161}
+\contentsline {section}{\hbox to\@tempdima {16.4\hfil } Primera relación sexual}{140}{section*.176}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {15.5\hfil } Primera relación sexual según escolaridad}{131}{section*.162}
+\contentsline {section}{\hbox to\@tempdima {16.5\hfil } Primera relación sexual según escolaridad}{141}{section*.177}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {15.6\hfil } Cantidad de hijos deseados y observados}{131}{section*.163}
+\contentsline {section}{\hbox to\@tempdima {16.6\hfil } Cantidad de hijos deseados y observados}{141}{section*.178}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {15.7\hfil } Cantidad de hijos deseados y observados según escolaridad}{132}{section*.164}
+\contentsline {section}{\hbox to\@tempdima {16.7\hfil } Cantidad de hijos deseados y observados según escolaridad}{142}{section*.179}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {15.8\hfil } Cantidad de hijos deseados y observados en mujeres sin educación}{132}{section*.165}
+\contentsline {section}{\hbox to\@tempdima {16.8\hfil } Cantidad de hijos deseados y observados en mujeres sin educación}{142}{section*.180}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {15.9\hfil } Conocimiento de métodos anticonceptivos}{133}{section*.166}
+\contentsline {section}{\hbox to\@tempdima {16.9\hfil } Conocimiento de métodos anticonceptivos}{143}{section*.181}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {15.10\hfil } Conocimiento de métodos anticonceptivos según escolaridad}{133}{section*.167}
+\contentsline {section}{\hbox to\@tempdima {16.10\hfil } Conocimiento de métodos anticonceptivos según escolaridad}{143}{section*.182}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {15.11\hfil } Conocimiento de métodos anticonceptivos mujeres sin educación}{134}{section*.168}
+\contentsline {section}{\hbox to\@tempdima {16.11\hfil } Conocimiento de métodos anticonceptivos mujeres sin educación}{144}{section*.183}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {15.12\hfil } Uso de métodos anticonceptivos}{134}{section*.169}
+\contentsline {section}{\hbox to\@tempdima {16.12\hfil } Uso de métodos anticonceptivos}{144}{section*.184}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {15.13\hfil } Uso de métodos anticonceptivos según escolaridad}{135}{section*.170}
+\contentsline {section}{\hbox to\@tempdima {16.13\hfil } Uso de métodos anticonceptivos según escolaridad}{145}{section*.185}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {15.14\hfil } Uso de métodos anticonceptivos mujeres sin educación}{135}{section*.171}
+\contentsline {section}{\hbox to\@tempdima {16.14\hfil } Uso de métodos anticonceptivos mujeres sin educación}{145}{section*.186}
 \thispagestyle {empty}
 \addvspace {3.1\baselineskip }\color {color2!60!black}
 \textbf {\Cinzel \relax \fontsize {12}{14}\selectfont PARTE {V} }\\[1.0mm] {\Cinzel \relax \fontsize {12}{14}\selectfont Gasto en educación }\\[-2.5mm] \par 
 \addvspace {0.2\baselineskip }{\color {color2}\hrule height 0.9pt} \vskip 0.6\baselineskip \relax \color {black}
 \addvspace {-0.1\baselineskip }\color {black}
 \addvspace {0.6\baselineskip }\color {color1}
-\contentsline {chapter}{\hbox to\@tempdima {16\hfil }Gasto de los hogares}{139}{section*.173}
+\contentsline {chapter}{\hbox to\@tempdima {17\hfil }Gasto de los hogares}{149}{section*.188}
 \color {black}\vskip 0.2\baselineskip \relax 
-\contentsline {section}{\hbox to\@tempdima {16.1\hfil } Gasto en educación}{141}{section*.174}
+\contentsline {section}{\hbox to\@tempdima {17.1\hfil } Gasto en educación}{151}{section*.189}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {16.2\hfil } Proporción de gasto en educación}{141}{section*.175}
+\contentsline {section}{\hbox to\@tempdima {17.2\hfil } Proporción de gasto en educación}{151}{section*.190}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {16.3\hfil } Gasto en educación según jefatura del hogar}{142}{section*.176}
+\contentsline {section}{\hbox to\@tempdima {17.3\hfil } Gasto en educación según jefatura del hogar}{152}{section*.191}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {16.4\hfil } Gasto en educación según etnicidad}{142}{section*.177}
+\contentsline {section}{\hbox to\@tempdima {17.4\hfil } Gasto en educación según etnicidad}{152}{section*.192}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {16.5\hfil } Gasto en educación según nivel de pobreza}{143}{section*.178}
+\contentsline {section}{\hbox to\@tempdima {17.5\hfil } Gasto en educación según nivel de pobreza}{153}{section*.193}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {16.6\hfil } Gasto en educación por área de residencia}{143}{section*.179}
+\contentsline {section}{\hbox to\@tempdima {17.6\hfil } Gasto en educación por área de residencia}{153}{section*.194}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {16.7\hfil } Gasto en educación en los departamentos}{144}{section*.180}
+\contentsline {section}{\hbox to\@tempdima {17.7\hfil } Gasto en educación en los departamentos}{154}{section*.195}
 \thispagestyle {empty}
 \addvspace {0.6\baselineskip }
-\contentsline {chapter}{APÉNDICES}{145}{section*.180}
+\contentsline {chapter}{APÉNDICES}{155}{section*.195}
 \addvspace {0.6\baselineskip }\color {color1}
-\contentsline {chapter}{\hbox to\@tempdima {A\hfil }Aspectos metodológicos}{147}{section*.181}
+\contentsline {chapter}{\hbox to\@tempdima {A\hfil }Aspectos metodológicos}{157}{section*.196}
 \color {black}\vskip 0.2\baselineskip \relax 
 \addvspace {0.6\baselineskip }\color {color1}
-\contentsline {chapter}{\hbox to\@tempdima {B\hfil }Glosario}{151}{section*.182}
+\contentsline {chapter}{\hbox to\@tempdima {B\hfil }Glosario}{161}{section*.197}
 \color {black}\vskip 0.2\baselineskip \relax 
