@@ -100,5 +100,5 @@ exportarLatex("graficas/vitales/1_20.tex", g10)
 
 
 g10<- graficaBar(ENC$"Hoja21",ancho = .45, ordenar = FALSE)
-etiquetasBarras(g10)
+g10 <- etiquetasBarras(g10)
 exportarLatex("graficas/vitales/1_21.tex", g10)

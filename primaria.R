@@ -1,4 +1,4 @@
-setwd('D:/GitHub/UNFACOMPENDIO')
+setwd('/mnt/datos/GitHub/UNFACOMPENDIO')
 anual(rgb(0,0,1), rgb(0.6156862745098039,0.7333333333333333,1))
 
 rm(list = ls())
@@ -57,7 +57,7 @@ exportarLatex("graficas/primaria/1_03.tex", g3)
 # exportarLatex("graficas/primaria/1_06.tex", g6)
 
 
-g07<- graficaCol(ENC$"1.7",ancho = .45, ordenar = FALSE)
+g07<- graficaCol(ENC$"1_7",ancho = .45, ordenar = FALSE)
 g07 <- etiquetasHorizontales(g07)
 exportarLatex("graficas/primaria/1_07.tex", g07)
 
@@ -73,7 +73,7 @@ g09 <- etiquetasHorizontales(g09)
 exportarLatex("graficas/primaria/1_09.tex", g09)
 
 
-g10<- graficaCol(ENC$"1.10",ancho = .45, ordenar = FALSE)
+g10<- graficaCol(ENC$"1_10",ancho = .45, ordenar = FALSE)
 g10 <- etiquetasHorizontales(g10)
 exportarLatex("graficas/primaria/1_10.tex", g10)
 
@@ -87,7 +87,7 @@ g12 <- etiquetasHorizontales(g12)
 exportarLatex("graficas/primaria/1_12.tex", g12)
 
 
-g13<- graficaCol(ENC$"1.13",ancho = .55, ordenar = FALSE)
+g13<- graficaCol(ENC$"1_13",ancho = .55, ordenar = FALSE)
 g13 <- etiquetasHorizontales(g13)
 exportarLatex("graficas/primaria/1_13.tex", g13)
 
@@ -151,7 +151,7 @@ exportarLatex("graficas/primaria/1_24.tex",g24)
 
 
 
-g25<- graficaCol(ENC$"1.25",ancho = .45, ordenar = FALSE)
+g25<- graficaCol(ENC$"1_25",ancho = .45, ordenar = FALSE)
 g25 <- etiquetasHorizontales(g25)
 exportarLatex("graficas/primaria/1_25.tex",g25)
 
